@@ -1,0 +1,62 @@
+# =============================================================================
+# CANDIDATE PROFILE
+# Edit this file to change skills, target roles, locations, and salary
+# expectations. No source code changes are required.
+# =============================================================================
+
+experience_years: 16
+current_level: Manager
+
+target_roles:
+  - Senior Data Engineer
+  - Lead Data Engineer
+  - Data Engineering Manager
+  - ETL Lead
+  - ETL Architect
+  - Data Architect
+  - Snowflake Developer
+  - Snowflake Architect
+  - Data Warehouse Architect
+
+# Core skills carry the most scoring weight (see job_search_config.yaml ->
+# scoring.core_technology for point values).
+core_skills:
+  - Snowflake
+  - Informatica PowerCenter
+  - Oracle PL/SQL
+  - SQL
+  - ETL
+  - Data Warehousing
+
+secondary_skills:
+  - Microsoft Fabric
+  - Apache Airflow
+  - Astro Airflow
+  - Python
+  - Azure
+  - ADLS
+  - AWS
+  - Informatica IDMC
+  - Control-M
+  - Denodo
+  - SQL Performance Tuning
+
+employment_preference:
+  - 100% Remote
+
+primary_work_location:
+  - India
+
+international_remote_locations:
+  - Global Remote
+  - Dubai
+  - UAE
+  - UK
+  - Europe
+  - USA
+
+minimum_target_salary:
+  INR: 4000000
+
+preferred_salary_notes:
+  - High paying international remote roles preferred over average-paying India-only roles

@@ -1,0 +1,350 @@
+# =============================================================================
+# JOB SEARCH CONFIGURATION
+# Controls search behavior, scoring weights, thresholds, sources, and
+# scheduling. Change any value here without touching source code.
+# =============================================================================
+
+run:
+  jobs_per_source_per_query: 15   # how many results to pull per query per source
+  max_jobs_in_report: 20          # "TOP 20 JOBS" table size
+  score_threshold_for_report: 40  # jobs below this score are stored but not reported
+  search_frequency: daily         # daily | twice_daily | weekly
+  daily_run_time_ist: "08:00"
+
+# ---------------------------------------------------------------------------
+# SOURCES
+# type: api        -> real no-auth-required JSON API, called directly by the
+#                      Python connector (fully automatable, no Claude needed)
+# type: mcp_tool    -> pulled via a Claude-side MCP tool during a live run
+#                      (Indeed / Dice / ZipRecruiter). Cannot run headless
+#                      without Claude in the loop today.
+# type: ai_search   -> no public API and scraping is disallowed by ToS /
+#                      robots.txt for most of these; a Claude session performs
+#                      WebSearch/WebFetch (search-engine snippets and, where a
+#                      site's robots.txt permits it, direct page fetches) and
+#                      writes results into data/raw/ using the standard
+#                      ingestion schema. Disable a source by setting enabled: false.
+# ---------------------------------------------------------------------------
+sources:
+  - name: Remotive
+    type: api
+    enabled: true
+    priority: 5
+  - name: RemoteOK
+    type: api
+    enabled: true
+    priority: 5
+  - name: Arbeitnow
+    type: api
+    enabled: true
+    priority: 5
+  - name: Jobicy
+    type: api
+    enabled: true
+    priority: 5
+  - name: WeWorkRemotely
+    type: api
+    enabled: true
+    priority: 5
+  - name: Himalayas
+    type: api
+    enabled: true
+    priority: 5
+  - name: Indeed
+    type: mcp_tool
+    enabled: true
+    priority: 3
+  - name: Dice
+    type: mcp_tool
+    enabled: true
+    priority: 5
+  - name: ZipRecruiter
+    type: mcp_tool
+    enabled: true
+    priority: 5
+  - name: LinkedIn
+    type: ai_search
+    enabled: true
+    priority: 2
+    notes: "No public search API; LinkedIn's robots.txt disallows automated /jobs scraping. Use WebSearch snippets only."
+  - name: Naukri
+    type: ai_search
+    enabled: true
+    priority: 4
+  - name: NaukriGulf
+    type: ai_search
+    enabled: true
+    priority: 4
+  - name: Glassdoor
+    type: ai_search
+    enabled: true
+    priority: 6
+  - name: Bayt
+    type: ai_search
+    enabled: true
+    priority: 6
+  - name: Foundit
+    type: ai_search
+    enabled: true
+    priority: 6
+  - name: Wellfound
+    type: ai_search
+    enabled: true
+    priority: 6
+  - name: Instahyre
+    type: ai_search
+    enabled: true
+    priority: 4
+  - name: CompanyCareerPage
+    type: ai_search
+    enabled: true
+    priority: 1
+  - name: GoogleWebSearch
+    type: ai_search
+    enabled: true
+    priority: 7
+
+# ---------------------------------------------------------------------------
+# SOURCE RELIABILITY (lower number = more trusted; used to resolve conflicts
+# and to pick the canonical URL during deduplication)
+# ---------------------------------------------------------------------------
+source_priority_order:
+  - CompanyCareerPage
+  - LinkedIn
+  - Indeed
+  - Naukri
+  - NaukriGulf
+  - Dice
+  - ZipRecruiter
+  - Instahyre
+  - Glassdoor
+  - Bayt
+  - Foundit
+  - Wellfound
+  - Remotive
+  - RemoteOK
+  - Arbeitnow
+  - Jobicy
+  - WeWorkRemotely
+  - Himalayas
+  - GoogleWebSearch
+
+# ---------------------------------------------------------------------------
+# SEED SEARCH QUERIES (Search Query Generator seeds from this list, then
+# expands dynamically with terminology discovered in matched job titles)
+# ---------------------------------------------------------------------------
+seed_queries:
+  - "Snowflake Informatica PowerCenter remote Data Engineer"
+  - "Snowflake PL/SQL remote Data Engineer"
+  - "Snowflake Informatica PL/SQL remote"
+  - "Snowflake Airflow remote Data Engineer"
+  - "Snowflake Microsoft Fabric remote Data Engineer"
+  - "Snowflake Informatica Airflow"
+  - "Informatica PowerCenter Snowflake Senior Data Engineer"
+  - "Snowflake Oracle PL/SQL Data Architect"
+  - "Snowflake ETL Architect remote"
+  - "Snowflake Data Engineering Manager remote"
+  - "Microsoft Fabric Snowflake Airflow remote"
+  - "Snowflake Azure ADLS Informatica"
+  - "Snowflake Developer remote India"
+  - "Data Warehouse Architect remote Snowflake"
+
+# Terms auto-discovered from job titles get appended here at runtime by the
+# query generator (data/discovered_terms.json), then merged into future runs.
+discovered_terms_file: data/discovered_terms.json
+
+# ---------------------------------------------------------------------------
+# SKILL SYNONYM GROUPS (semantic matching layer)
+# Any variant in a group counts as a match for the whole group.
+# ---------------------------------------------------------------------------
+skill_synonyms:
+  snowflake:
+    - snowflake
+    - snowflake db
+    - snowflake data cloud
+    - snowsql
+  informatica_powercenter:
+    - informatica powercenter
+    - informatica power center
+    - informatica etl
+    - informatica powercenter developer
+    - informatica developer
+    - powercenter
+    - informatica pc
+  informatica_idmc:
+    - informatica idmc
+    - idmc
+    - informatica cloud
+    - informatica intelligent data management cloud
+    - informatica cdi
+  oracle_plsql:
+    - pl/sql
+    - plsql
+    - oracle pl/sql
+    - oracle pl sql
+    - oracle sql/plsql
+    - oracle sql plsql
+    - pl sql developer
+  sql:
+    - sql
+    - t-sql
+    - tsql
+    - structured query language
+  ms_fabric:
+    - microsoft fabric
+    - ms fabric
+    - fabric data engineering
+    - fabric lakehouse
+    - fabric data factory
+    - fabric dataflow
+  azure:
+    - azure
+    - microsoft azure
+    - azure data factory
+    - adf
+  adls:
+    - adls
+    - azure data lake storage
+    - azure data lake
+  aws:
+    - aws
+    - amazon web services
+    - redshift
+    - s3
+    - glue
+  airflow:
+    - apache airflow
+    - airflow
+    - astro airflow
+    - astronomer
+    - astronomer airflow
+  python:
+    - python
+  etl:
+    - etl
+    - elt
+    - data pipeline
+    - data pipelines
+  data_warehouse:
+    - data warehouse
+    - data warehousing
+    - dwh
+    - edw
+    - enterprise data warehouse
+  control_m:
+    - control-m
+    - control m
+    - controlm
+  denodo:
+    - denodo
+    - data virtualization
+  sql_perf_tuning:
+    - sql performance tuning
+    - query tuning
+    - performance tuning
+    - query optimization
+
+# ---------------------------------------------------------------------------
+# SCORING ENGINE (0-100 base score; combo/recency bonuses layered on top for
+# ranking order only — see scoring.py)
+# ---------------------------------------------------------------------------
+scoring:
+  core_technology:               # max 50
+    snowflake: 15
+    informatica: 10               # powercenter OR idmc
+    oracle_plsql: 8
+    ms_fabric_azure: 7
+    airflow: 5
+    python_sql_etl_dw: 5          # python, sql, etl, or data warehouse generic terms
+  seniority:                      # max 15
+    manager_architect: 15
+    lead_senior: 12
+    mid_level: 6
+    junior: 0
+  experience:                     # max 10
+    "15_plus": 10
+    "10_14": 7
+    "7_9": 5
+    below_7: 2
+  remote:                         # max 15
+    india_confirmed: 15
+    global_remote: 15
+    unclear: 8
+    hybrid: 3
+    onsite: 0
+  salary:                         # max 10
+    very_high: 10
+    high: 8
+    average: 5
+    low: 2
+    not_disclosed: 4
+  bonuses:                        # added on top for ranking (not part of /100 display score)
+    snowflake_informatica_plsql: 5
+    snowflake_fabric_airflow: 5
+    india_remote_high_salary: 5
+    recency:
+      tier1_24h: 10
+      tier2_3d: 6
+      tier3_7d: 3
+      tier4_14d: 1
+      unverified_or_older: 0
+
+# ---------------------------------------------------------------------------
+# SALARY TIER THRESHOLDS (annualized, gross). Add currencies as needed.
+# ---------------------------------------------------------------------------
+salary_thresholds:
+  INR:
+    very_high: 5500000
+    high: 4000000
+    average: 2200000
+  USD:
+    very_high: 190000
+    high: 150000
+    average: 100000
+  AED:
+    very_high: 550000
+    high: 420000
+    average: 260000
+  GBP:
+    very_high: 140000
+    high: 100000
+    average: 65000
+  EUR:
+    very_high: 150000
+    high: 110000
+    average: 70000
+
+# ---------------------------------------------------------------------------
+# RECENCY TIERS (hours since posting_date; requires a verifiable date)
+# ---------------------------------------------------------------------------
+recency_tiers:
+  tier1_hours: 24
+  tier2_hours: 72
+  tier3_hours: 168
+  tier4_hours: 336
+
+# ---------------------------------------------------------------------------
+# DEDUPLICATION
+# ---------------------------------------------------------------------------
+dedup:
+  title_similarity_threshold: 0.82
+  description_similarity_threshold: 0.80
+  canonical_url_priority: source_priority_order   # see above
+
+# ---------------------------------------------------------------------------
+# ALERTS
+# ---------------------------------------------------------------------------
+alerts:
+  rules:
+    - name: excellent_india_remote
+      condition: "score >= 85 and india_remote in ['REMOTE_INDIA_CONFIRMED']"
+    - name: exceptional_score
+      condition: "score >= 90"
+    - name: core_stack_high_salary
+      condition: "has_snowflake and has_informatica and has_plsql and salary_meets_target"
+
+# ---------------------------------------------------------------------------
+# APPLICATION AUTOMATION (must stay false unless explicitly enabled by the
+# candidate; the agent only recommends jobs by default)
+# ---------------------------------------------------------------------------
+auto_apply_enabled: false
