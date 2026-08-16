@@ -16,11 +16,18 @@ Jobicy/Himalayas/WeWorkRemotely all returned `403` through the sandbox
 egress proxy). Two things remain true and are what this project relies on:
 
 1. **`src/sources/free_apis.py`** (Remotive, RemoteOK, Arbeitnow, Jobicy,
-   Himalayas) is real, working code that calls genuine no-auth-required
-   public JSON APIs. It will run headlessly with a normal internet
+   Himalayas, Adzuna, Jooble, TheMuse) is real, working code that calls
+   genuine public JSON APIs — no scraping, all either no-auth or a free
+   registered key. It will run headlessly with a normal internet
    connection — a laptop, a server, or a GitHub Actions runner (see the
    included workflow). It could not be exercised against live traffic
    *inside the Claude sandbox itself*, only inside a normal runner.
+   TheMuse needs no key. Adzuna and Jooble need a free API key (sign up
+   at developer.adzuna.com / jooble.org/api/about) set as `ADZUNA_APP_ID`
+   / `ADZUNA_APP_KEY` / `JOOBLE_API_KEY` — as GitHub Actions repo secrets
+   for the scheduled workflow, or local env vars for a manual run. Without
+   a key, that source just logs a clear "not configured" error each run
+   and is skipped, same as any other non-fatal source failure.
 2. **LinkedIn, Naukri, Naukri Gulf, Glassdoor, Bayt, Foundit, Wellfound,
    Instahyre, individual company career pages, and general Google search**
    have no public search APIs, and most disallow automated `/jobs`
@@ -67,7 +74,7 @@ job_search_agent/
 │   ├── db.py                       # SQLite access layer
 │   └── sources/
 │       ├── base.py                 # shared normalization helpers
-│       ├── free_apis.py            # Remotive/RemoteOK/Arbeitnow/Jobicy/Himalayas (real API calls)
+│       ├── free_apis.py            # Remotive/RemoteOK/Arbeitnow/Jobicy/Himalayas/Adzuna/Jooble/TheMuse (real API calls)
 │       └── ai_search.py            # ingestion contract/validator for WebSearch/MCP-collected jobs
 ├── data/
 │   └── raw/                        # raw ingestion JSON files land here
@@ -127,36 +134,28 @@ The agent **never applies automatically** — `auto_apply_enabled: false` in
 this codebase does not implement the submission step even if it were
 flipped, by design (spec requirement).
 
-## 5. Scheduling daily runs
+## 5. Scheduling runs
 
-You asked for the most reliable mechanism actually available. Two real
-options, be clear-eyed about what each covers:
-
-**Option A — GitHub Actions (`.github/workflows/daily_job_search.yml`, included):**
-fully unattended, runs `run-free-apis` daily at 08:00 IST, commits the
-updated DB + report back to your repo. Zero ongoing Claude usage. Only
-covers the free-API sources (Remotive, RemoteOK, Arbeitnow, Jobicy,
-Himalayas) — good breadth of genuinely remote listings, but not
-LinkedIn/Naukri/Indeed/etc.
+**GitHub Actions (`.github/workflows/daily_job_search.yml`, included) — the
+only scheduling mechanism this project runs, and it's completely free:**
+fully unattended, runs `run-free-apis` every 4 hours (anchored to 7:30 IST),
+commits the updated DB + report back to your repo. Zero Claude usage — it's
+a plain Python script on a GitHub-hosted runner, free on a public repo.
 1. Push this project to a GitHub repo.
 2. Enable Actions.
 3. Done — first run fires on the next scheduled tick, or trigger manually
    via "Run workflow".
 
-**Option B — a Claude scheduled task, for full source coverage:** create a
-daily trigger whose prompt tells a fresh Claude session to `git clone` your
-repo (so it has the persistent DB), perform the WebSearch/MCP-tool searches
-described in 4b, `git commit` the updated DB and report, and message you the
-top results. This is the only way to get LinkedIn/Naukri/Glassdoor/etc.
-coverage on a schedule, because those connectors require Claude's WebSearch
-and MCP tools, which don't exist in a plain cron job. Ask Claude to set this
-up for you with `create_trigger` once your repo exists — it needs the repo
-URL and a way to push (e.g. a fine-grained PAT stored as a secret you
-provide at trigger-creation time, never hardcoded in this codebase).
-
-Realistically: run A nightly for baseline coverage, and B weekly (or
-on-demand) for the deeper multi-board sweep — both write to the same
-`db/jobs.db`, so the report always reflects everything found so far.
+This only covers the free-API sources (§1 below) — not LinkedIn, Naukri,
+Glassdoor, Bayt, Foundit, Wellfound, Instahyre, or Indeed/Dice/ZipRecruiter.
+Those sites disallow automated scraping in both `robots.txt` and their
+Terms of Service, and have no public search API, so the only way to reach
+them at all is a Claude session doing `WebSearch`/MCP-tool calls (§4b) —
+which is not free (it consumes your Claude usage on every run) and is
+intentionally **not** wired into any schedule by default. If you want that
+coverage back on a recurring basis, it has to be a deliberate, explicit
+choice (a Claude scheduled trigger) made with the usage cost in mind, at
+whatever frequency you're comfortable paying for — ask Claude to set it up.
 
 ## 6. Changing your profile without touching code
 

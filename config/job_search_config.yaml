@@ -50,6 +50,21 @@ sources:
     type: api
     enabled: true
     priority: 5
+  - name: Adzuna
+    type: api
+    enabled: true
+    priority: 5
+    notes: "Free tier (~1000 calls/month). Requires ADZUNA_APP_ID / ADZUNA_APP_KEY env vars (free signup at developer.adzuna.com); skipped non-fatally if unset."
+  - name: Jooble
+    type: api
+    enabled: true
+    priority: 5
+    notes: "Free tier. Requires JOOBLE_API_KEY env var (free signup at jooble.org/api/about); skipped non-fatally if unset."
+  - name: TheMuse
+    type: api
+    enabled: true
+    priority: 4
+    notes: "Public, no API key required. Curated tech/data listings, category-filtered client-side."
   - name: Indeed
     type: mcp_tool
     enabled: true
