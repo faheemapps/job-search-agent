@@ -13,7 +13,7 @@ which route requests through Claude's WebSearch/WebFetch tools.
 """
 import os
 import requests
-from .base import clean_html
+from .base import clean_html, to_iso8601
 
 HEADERS = {"User-Agent": "job-search-agent/1.0 (personal use; contact via profile)"}
 TIMEOUT = 20
@@ -133,7 +133,7 @@ def fetch_himalayas(query: str, limit: int = 15):
             "job_title": j.get("title"),
             "company_name": (j.get("companyName") or j.get("company", {}).get("name")),
             "location": ", ".join(j.get("locationRestrictions", []) or []) or "Remote",
-            "posting_date": j.get("pubDate"),
+            "posting_date": to_iso8601(j.get("pubDate")),
             "posting_date_status": "VERIFIED" if j.get("pubDate") else "UNVERIFIED",
             "salary_raw": None,
             "job_description": clean_html(j.get("description", "")),
