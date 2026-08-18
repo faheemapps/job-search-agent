@@ -15,8 +15,8 @@ def recency_tier(posting_date_iso, posting_date_status, tiers: dict):
     if posting_date_status != "VERIFIED" or not posting_date_iso:
         return "unverified_or_older"
     try:
-        dt = datetime.fromisoformat(posting_date_iso.replace("Z", "+00:00"))
-    except ValueError:
+        dt = datetime.fromisoformat(str(posting_date_iso).replace("Z", "+00:00"))
+    except (ValueError, TypeError, AttributeError):
         return "unverified_or_older"
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
