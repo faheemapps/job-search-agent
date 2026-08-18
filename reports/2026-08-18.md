@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-18 18:20 UTC
+# Daily Job Search Report — 2026-08-18 22:12 UTC
 
 ## Run Summary
 
-- New jobs found: 137
-- Total jobs processed this run: 137
+- New jobs found: 53
+- Total jobs processed this run: 135
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
 
@@ -16,24 +16,24 @@
 | ---- | ----: | ------- | ---- | ------ | ------ | ------ | ---------- | ----- |
 | 1 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | 2 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
-| 3 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
-| 4 | 59 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | REMOTE_INDIA_CONFIRMED | 2026-08-04 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aalyshf86v8t) |
-| 5 | 50 | PRIMUS Global Services Inc. | Snowflake Data Architect - Healthcare Claims, Remote | UNKNOWN | 2026-08-14 | USD 65-70 | snowflake | [Apply](https://www.dice.com/job-detail/b6586538-9c06-4c5f-8481-fd1a1b7f33a1) |
-| 6 | 50 | Tech Tandem Inc | Healthcare Data Architect / Snowflake Architect (MedInsight) | UNKNOWN | 2026-08-14 | USD 95 | snowflake | [Apply](https://www.dice.com/job-detail/e29b9a5c-6583-48bb-b2ac-fbe248fade9a) |
-| 7 | 59 | 3Pillar Global | Snowflake Data Architect (With AI experience) | REMOTE_INDIA_CONFIRMED | 2026-06-12 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aapqw8cwyhmf) |
-| 8 | 49 | Hamiltonlane | ETL Data Engineer (Python & Snowflake) | UNKNOWN | 2026-08-15 | USD 117,200-140,700 | etl, python, snowflake | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZyT2ZhNzgyQTdRa1U2SGQ4U2pSZ2V3EiQwMWEwMDViYi0zYzg3LTc0Y2UtODUzYi03ZDk4YWYwNGUwNzEaS0FBSG03SFE5SU51T2hRN2N1blF6WHhXRExqY1VsdWJ6X09scVVDelJQVWJsMnNybU5BdFZOUXl2TUxIR083TEFSenhneDFrZGtfMCDJrQUQARjJrQU%3D&tsid=100000502) |
-| 9 | 59 | Quess | Data Architect - Snowflake (Azure & AWS) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, snowflake | [Apply](https://www.naukri.com/job-listings-data-architect-snowflake-azure-aws-quess-bengaluru-7-to-12-years-280726021578) |
-| 10 | 48 | Codinix Technologies Inc. | Snowflake Developer with SSIS | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | etl, snowflake, sql | [Apply](https://www.dice.com/job-detail/a9b98fd8-682c-469a-a9cd-4c94f92268e3) |
-| 11 | 52 | eBusiness Solutions, Inc. | Data Architect | UNKNOWN | 2026-08-13 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/b51d42d5-1947-450a-ae1d-103d5ed73cf3) |
-| 12 | 56 | Mukizh Fashions | Sr. Data Analytics Engineer – Snowflake | REMOTE_INDIA_CONFIRMED | 2026-08-06 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aaxtm2zdrzxv) |
-| 13 | 57 | Accenture | Snowflake Data Warehouse-Technology Architect | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | data_warehouse, snowflake | [Apply](https://www.naukri.com/job-listings-snowflake-data-warehouse-technology-architect-accenture-solutions-pvt-ltd-bangalore-bengaluru-10-to-12-years-270124903074) |
-| 14 | 57 | chainguard | Enterprise Account Executive - DACH | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/chainguard/enterprise-account-executive-dach-496962) |
-| 15 | 57 | sonymusicentertainment | Head of Data - GSA (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/head-of-data-gsa-europe-berlin-58521) |
-| 16 | 55 | Pakka Jobs | Data Engineer(ETL to Snowflake) | REMOTE_INDIA_CONFIRMED | 2026-08-06 | NOT_AVAILABLE | etl, snowflake | [Apply](https://to.indeed.com/aaxkc8h47lhp) |
-| 17 | 55 | DIAN Technology Solutions Pvt Ltd | Data Engineer (ETL to Snowflake) | REMOTE_INDIA_CONFIRMED | 2026-08-06 | NOT_AVAILABLE | etl, snowflake | [Apply](https://to.indeed.com/aaymt7ljjmvd) |
-| 18 | 56 | 3Pillar Global | Lead Data Engineer With Snowflake | REMOTE_INDIA_CONFIRMED | 2026-05-27 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aah4vdm9lmzz) |
-| 19 | 56 | Codvo.ai | Snowflake Data Platform Lead(India) | REMOTE_INDIA_CONFIRMED | 2026-03-01 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aa2cnyg9dm76) |
-| 20 | 50 | Pivotal Health | Senior Software Engineer Case Execution | REMOTE_COUNTRY_RESTRICTED | 2026-08-16 | NOT_AVAILABLE | control_m, python, snowflake | [Apply](https://remoteok.com/remote-jobs/1136795) |
+| 3 | 64 | databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
+| 4 | 64 | Eraneos | Senior Manager Data Analytics (w/m/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, ms_fabric | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
+| 5 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
+| 6 | 59 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | REMOTE_INDIA_CONFIRMED | 2026-08-04 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aalyshf86v8t) |
+| 7 | 50 | PRIMUS Global Services Inc. | Snowflake Data Architect - Healthcare Claims, Remote | UNKNOWN | 2026-08-14 | USD 65-70 | snowflake | [Apply](https://www.dice.com/job-detail/b6586538-9c06-4c5f-8481-fd1a1b7f33a1) |
+| 8 | 50 | Tech Tandem Inc | Healthcare Data Architect / Snowflake Architect (MedInsight) | UNKNOWN | 2026-08-14 | USD 95 | snowflake | [Apply](https://www.dice.com/job-detail/e29b9a5c-6583-48bb-b2ac-fbe248fade9a) |
+| 9 | 59 | 3Pillar Global | Snowflake Data Architect (With AI experience) | REMOTE_INDIA_CONFIRMED | 2026-06-12 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aapqw8cwyhmf) |
+| 10 | 49 | Hamiltonlane | ETL Data Engineer (Python & Snowflake) | UNKNOWN | 2026-08-15 | USD 117,200-140,700 | etl, python, snowflake | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZyT2ZhNzgyQTdRa1U2SGQ4U2pSZ2V3EiQwMWEwMDViYi0zYzg3LTc0Y2UtODUzYi03ZDk4YWYwNGUwNzEaS0FBSG03SFE5SU51T2hRN2N1blF6WHhXRExqY1VsdWJ6X09scVVDelJQVWJsMnNybU5BdFZOUXl2TUxIR083TEFSenhneDFrZGtfMCDJrQUQARjJrQU%3D&tsid=100000502) |
+| 11 | 59 | Quess | Data Architect - Snowflake (Azure & AWS) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, snowflake | [Apply](https://www.naukri.com/job-listings-data-architect-snowflake-azure-aws-quess-bengaluru-7-to-12-years-280726021578) |
+| 12 | 48 | Codinix Technologies Inc. | Snowflake Developer with SSIS | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | etl, snowflake, sql | [Apply](https://www.dice.com/job-detail/a9b98fd8-682c-469a-a9cd-4c94f92268e3) |
+| 13 | 52 | eBusiness Solutions, Inc. | Data Architect | UNKNOWN | 2026-08-13 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/b51d42d5-1947-450a-ae1d-103d5ed73cf3) |
+| 14 | 56 | Mukizh Fashions | Sr. Data Analytics Engineer – Snowflake | REMOTE_INDIA_CONFIRMED | 2026-08-06 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aaxtm2zdrzxv) |
+| 15 | 57 | Accenture | Snowflake Data Warehouse-Technology Architect | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | data_warehouse, snowflake | [Apply](https://www.naukri.com/job-listings-snowflake-data-warehouse-technology-architect-accenture-solutions-pvt-ltd-bangalore-bengaluru-10-to-12-years-270124903074) |
+| 16 | 57 | chainguard | Enterprise Account Executive - DACH | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/chainguard/enterprise-account-executive-dach-496962) |
+| 17 | 57 | sonymusicentertainment | Head of Data - GSA (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/head-of-data-gsa-europe-berlin-58521) |
+| 18 | 55 | Pakka Jobs | Data Engineer(ETL to Snowflake) | REMOTE_INDIA_CONFIRMED | 2026-08-06 | NOT_AVAILABLE | etl, snowflake | [Apply](https://to.indeed.com/aaxkc8h47lhp) |
+| 19 | 55 | DIAN Technology Solutions Pvt Ltd | Data Engineer (ETL to Snowflake) | REMOTE_INDIA_CONFIRMED | 2026-08-06 | NOT_AVAILABLE | etl, snowflake | [Apply](https://to.indeed.com/aaymt7ljjmvd) |
+| 20 | 56 | 3Pillar Global | Lead Data Engineer With Snowflake | REMOTE_INDIA_CONFIRMED | 2026-05-27 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aah4vdm9lmzz) |
 
 ## TOP 5 — APPLY FIRST
 
@@ -79,6 +79,48 @@ Gap:
 - **Recruiter/contact:** NOT_AVAILABLE
 - **Source(s):** RemoteOK
 
+### databricks — Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+
+Match Score: 64/100  
+Why:  
+  ✓ Snowflake  
+  ✓ Microsoft Fabric/Azure  
+  ✓ python/sql/etl/data_warehouse  
+  ✓ 16+ years experience  
+  ✓ Manager/Architect role  
+Gap:  
+  △ Informatica PowerCenter/IDMC not mentioned  
+  △ Oracle PL/SQL not mentioned  
+  △ Airflow not mentioned
+
+- **Salary:** NOT_AVAILABLE (not_disclosed)
+- **Remote eligibility:** UNKNOWN (evidence: _no remote signal found_)
+- **Posted:** UNVERIFIED
+- **Application link:** https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828
+- **Recruiter/contact:** NOT_AVAILABLE
+- **Source(s):** Arbeitnow
+
+### Eraneos — Senior Manager Data Analytics (w/m/d)
+
+Match Score: 64/100  
+Why:  
+  ✓ Snowflake  
+  ✓ Microsoft Fabric/Azure  
+  ✓ sql/etl/data_warehouse  
+  ✓ 16+ years experience  
+  ✓ Manager/Architect role  
+Gap:  
+  △ Informatica PowerCenter/IDMC not mentioned  
+  △ Oracle PL/SQL not mentioned  
+  △ Airflow not mentioned
+
+- **Salary:** NOT_AVAILABLE (not_disclosed)
+- **Remote eligibility:** UNKNOWN (evidence: _generic 'remote' with no location qualifier_)
+- **Posted:** UNVERIFIED
+- **Application link:** https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976
+- **Recruiter/contact:** NOT_AVAILABLE
+- **Source(s):** Arbeitnow
+
 ### Tekfortune Inc. — Snowflake Architect
 
 Match Score: 52/100  
@@ -100,54 +142,12 @@ Gap:
 - **Recruiter/contact:** NOT_AVAILABLE
 - **Source(s):** Dice
 
-### TriDevSofts — We're Hiring \| Data Products & Snowflake Architect
-
-Match Score: 59/100  
-Why:  
-  ✓ Snowflake  
-  ✓ 16+ years experience  
-  ✓ Remote India Confirmed  
-  ✓ Manager/Architect role  
-Gap:  
-  △ Informatica PowerCenter/IDMC not mentioned  
-  △ Oracle PL/SQL not mentioned  
-  △ Microsoft Fabric/Azure not mentioned  
-  △ Airflow not mentioned  
-  △ Python/SQL/ETL/DW not mentioned
-
-- **Salary:** NOT_AVAILABLE (not_disclosed)
-- **Remote eligibility:** REMOTE_INDIA_CONFIRMED (evidence: _remote \(india\)_)
-- **Posted:** 2026-08-04
-- **Application link:** https://to.indeed.com/aalyshf86v8t
-- **Recruiter/contact:** NOT_AVAILABLE
-- **Source(s):** Indeed
-
-### PRIMUS Global Services Inc. — Snowflake Data Architect - Healthcare Claims, Remote
-
-Match Score: 50/100  
-Why:  
-  ✓ Snowflake  
-  ✓ 16+ years experience  
-  ✓ Manager/Architect role  
-Gap:  
-  △ Informatica PowerCenter/IDMC not mentioned  
-  △ Oracle PL/SQL not mentioned  
-  △ Microsoft Fabric/Azure not mentioned  
-  △ Airflow not mentioned  
-  △ Python/SQL/ETL/DW not mentioned
-
-- **Salary:** USD 65-70 (low)
-- **Remote eligibility:** UNKNOWN (evidence: _generic 'remote' with no location qualifier_)
-- **Posted:** 2026-08-14
-- **Application link:** https://www.dice.com/job-detail/b6586538-9c06-4c5f-8481-fd1a1b7f33a1
-- **Recruiter/contact:** NOT_AVAILABLE
-- **Source(s):** Dice
-
 
 ## HIGH PAYING JOBS
 
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
+| Voltus | Sales Associate | USD 660,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/voltus/jobs/sales-associate) |
 | Outsite | Business Development Representative | USD 540,000-600,000 | REMOTE_GLOBAL | [Apply](https://remotive.com/remote-jobs/sales/business-development-representative-2091075) |
 | garden3d | Head of Marketing & Communications | USD 150,000-230,000 | UNKNOWN | [Apply](https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068) |
 | Snowflake | Senior Solution Engineer, HCLS | USD 165,000-216,562 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZtRVB4Z2c4VlR1cDFCZFM2UmNzYkdREiQwMWEwMDViYi0zYzg3LTc1MTgtYTRkNS1kMWU3NmE5MDM4NDUaS0FBRmZqMEtWb3dtemRiRzM0Vk1hNldxS1JzYTRDME9vT2ZQcEswMW1TcDRkSXdnV2xCY0tmeUk5eVFGUmc5cTZSMWZ3LTVGcENXSSDJrQUQARjJrQU%3D&tsid=100000502) |
@@ -156,13 +156,12 @@ Gap:
 | Vomela | Principal Data Engineer | USD 180-200,000 | UNKNOWN | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | AmeriLife | Director, Product & Advanced Strategies: Advanced Sales | USD 150,000-200,000 | UNKNOWN | [Apply](https://himalayas.app/companies/amerilife/jobs/director-product-advanced-strategies-advanced-sales-3508157465) |
 | Symmetry Lending | Data Engineering & Reporting Manager | USD 160,000-195,000 | UNKNOWN | [Apply](https://to.indeed.com/aa6ryz4hqw2f) |
+| Superhuman | Senior Product Manager - Agents | EUR 110,000-150,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/senior-product-manager-agents-berlin-182470) |
 | Arch Capital Group Ltd. | Manager, Data Engineer (Remote) | USD 100,500-174,000 | UNKNOWN | [Apply](https://to.indeed.com/aa9bsdf7jmmw) |
+| Steampunk | Senior Integration Engineer | USD 140,000-170,000 | UNKNOWN | [Apply](https://himalayas.app/companies/steampunk/jobs/senior-integration-engineer) |
 | Technology Navigators | REMOTE Enterprise Architect - C#, ETL/Data Warehousing | USD 160,000-165,000 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=CpoBChZFWkZwNzdnenJuNTV5bGt1SExlZ2tREiQwMWEwMDViYy0yZDRkLTc1NjEtOTJhNC0wYWIwOWU4YWNiN2QaVkFBRk5TNXI3R2VJMGpNd2x4ZGZZd1RlcGhic0FNR25ITXpxNWlSalM3RjN1VG1sTXhrTTJ2d2t2cWlKcmlMSXhhUHhoN050YnVIdl80Wk9ZUEZjeEl3IMmtBRABGMmtBQ%3D%3D&tsid=100000502) |
 | Careoregon | IS Data Warehouse Architect II | USD 122,000-163,000 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZzZWRwRTV5Sk55YUQ3eGtOcFpMbTZBEiQwMWEwMDViYy0yZDQ2LTdmM2UtYmIzMy04MTc2MjRlMjEyMjkaS0FBRjJjcWxCeWJlQ0xBdjRfbzRuSUJrUmpnV1RCek5oOW5tdnpTWlRFNllCZmJBTFVsTkZWT2ViVHZzZXhIMGxlSEY3Z2p3SUp4USDJrQUQARjJrQU%3D&tsid=100000502) |
 | Arthur Lawrence | Developer - Informatica/ETL | USD 111,500-143,500 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZQaE44RDd0a1FyOHBXTkdrS01XS2JBEiQwMWEwMDViYi0zYzg3LTc0ZDgtODcxNi01YmVhOWM4MmNlNTMaS0FBRmI5X3d1d0o4Zi1pQlNiQXdXcE9qRUp4ZFR5RmFOZlV1UHZ5Q24yQTZ6Z0tUeVpCLUlmNUJ2aXA1cHlfQXRXMFNvVzV1amt2MCDJrQUQARjJrQU%3D&tsid=100000502) |
-| Hamiltonlane | ETL Data Engineer (Python & Snowflake) | USD 117,200-140,700 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZyT2ZhNzgyQTdRa1U2SGQ4U2pSZ2V3EiQwMWEwMDViYi0zYzg3LTc0Y2UtODUzYi03ZDk4YWYwNGUwNzEaS0FBSG03SFE5SU51T2hRN2N1blF6WHhXRExqY1VsdWJ6X09scVVDelJQVWJsMnNybU5BdFZOUXl2TUxIR083TEFSenhneDFrZGtfMCDJrQUQARjJrQU%3D&tsid=100000502) |
-| Comcast | Snowflake Data Governance Steward (Engineer 3) - FreeWheel | USD 117,200-140,700 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZIVzBVdE1zcC1LVmtROXJ2MTYyREpBEiQwMWEwMDViYi0zYzg3LTc0ZGYtYTY2Yi1iY2Y3ZGE4ZDM0MDAaS0FBRm1TcERSalgzZkZOYTJGOURFbnUwbWloQU9sT2NmVXRfdUFRdXltLTFyUzd6QmhyNEt5SDVOM01xTFltOVpmc2xIZ0hCS2toRSDJrQUQARjJrQU%3D&tsid=100000502) |
-| Huntington | Lead ETL Developer- Enterprise Data Warehouse (EDW) | USD 70,000-140,000 | UNKNOWN | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChYzYXBjSVEwN3g0b1dwRUUxeUJYWHpnEiQwMWEwMDViYy0yZDQ3LTcwMGMtYWE0Yi01OTRiYzIyZDM1NDgaS0FBRndQblByYTVBNldPVjNDUVNuZHM2LW96OGpKNGtmaW1sNVJZQkNXeXo2LV9fTUtYdXdlRXl3QWI3MFZfdkNHaWF3bE44U21fYyDJrQUQARjJrQU%3D&tsid=100000502) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
@@ -171,7 +170,10 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | ------- | ---- | ----: | -------------- | ----- |
 | Vomela | Principal Data Engineer | 70 | adls, azure, etl, ms_fabric, snowflake, sql, sql_perf_tuning | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remoteok.com/remote-jobs/1136594) |
+| Eraneos | Senior Manager Data Analytics (w/m/d) | 64 | aws, data_warehouse, etl, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
 | Superhuman%20Platform%20Inc | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973) |
+| Superhuman | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243) |
+| databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | 64 | aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
 | 3Pillar Global | Snowflake Data Architect (With AI experience) | 59 | snowflake | [Apply](https://to.indeed.com/aapqw8cwyhmf) |
 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | 59 | snowflake | [Apply](https://to.indeed.com/aalyshf86v8t) |
 | Quess | Data Architect - Snowflake (Azure & AWS) | 59 | aws, azure, snowflake | [Apply](https://www.naukri.com/job-listings-data-architect-snowflake-azure-aws-quess-bengaluru-7-to-12-years-280726021578) |
@@ -181,9 +183,6 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Mukizh Fashions | Sr. Data Analytics Engineer – Snowflake | 56 | snowflake | [Apply](https://to.indeed.com/aaxtm2zdrzxv) |
 | 3Pillar Global | Lead Data Engineer With Snowflake | 56 | snowflake | [Apply](https://to.indeed.com/aah4vdm9lmzz) |
 | Codvo.ai | Snowflake Data Platform Lead(India) | 56 | snowflake | [Apply](https://to.indeed.com/aa2cnyg9dm76) |
-| Pakka Jobs | Data Engineer(ETL to Snowflake) | 55 | etl, snowflake | [Apply](https://to.indeed.com/aaxkc8h47lhp) |
-| DIAN Technology Solutions Pvt Ltd | Data Engineer (ETL to Snowflake) | 55 | etl, snowflake | [Apply](https://to.indeed.com/aaymt7ljjmvd) |
-| Snowflake | Senior Solution Engineer, HCLS | 55 | snowflake | [Apply](https://www.ziprecruiter.com/job-redirect?match_token=Co8BChZtRVB4Z2c4VlR1cDFCZFM2UmNzYkdREiQwMWEwMDViYi0zYzg3LTc1MTgtYTRkNS1kMWU3NmE5MDM4NDUaS0FBRmZqMEtWb3dtemRiRzM0Vk1hNldxS1JzYTRDME9vT2ZQcEswMW1TcDRkSXdnV2xCY0tmeUk5eVFGUmc5cTZSMWZ3LTVGcENXSSDJrQUQARjJrQU%3D&tsid=100000502) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
@@ -196,6 +195,11 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | remotecom | Product Manager, Billing Platform |  | USD 62,400 | [Apply](https://www.arbeitnow.com/jobs/companies/remotecom/product-manager-billing-platform-109727) |
 | Jimdo | Senior Infrastructure Engineer | Germany | NOT_AVAILABLE | [Apply](https://www.arbeitnow.com/jobs/companies/jimdo/senior-infrastructure-engineer-germany-242035) |
 | Hadley Designs | Amazon Product Specialist | Algeria, Côte d'Ivoire, Kenya, Morocco, Philippines, Uruguay | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/hadley-designs/jobs/amazon-product-specialist-4673357410) |
+| Superhuman | Senior Product Manager - Agents | Hub - Berlin | EUR 110,000-150,000 | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/senior-product-manager-agents-berlin-182470) |
+| Voltus | Sales Associate | United States | USD 660,000 | [Apply](https://himalayas.app/companies/voltus/jobs/sales-associate) |
+| RedMimicry GmbH | Platform and Integration Engineer, Security Telemetry (32h) | Berlin | NOT_AVAILABLE | [Apply](https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/platform-and-integration-engineer-security-telemetry-32h-berlin-447900) |
+| RedMimicry GmbH | Senior AI/ML Engineer, Security Log Intelligence | Berlin | NOT_AVAILABLE | [Apply](https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/senior-ai-ml-engineer-security-log-intelligence-berlin-431641) |
+| Kaskegroup | Customer Success Manager (m/f/d) – Software & Analytics | München | NOT_AVAILABLE | [Apply](https://www.arbeitnow.com/jobs/companies/kaskegroup/customer-success-manager-software-analytics-munchen-425576) |
 
 ## INDIA REMOTE (explicitly confirmed)
 
