@@ -39,3 +39,20 @@ def relative_to_iso(days_ago=None, hours_ago=None):
     if hours_ago is not None:
         dt -= timedelta(hours=hours_ago)
     return dt.isoformat()
+
+def to_iso8601(value):
+    """Best-effort normalization of whatever a source's "date" field
+    contains into an ISO8601 string. Handles None, already-ISO strings,
+    and int/float unix timestamps in seconds OR milliseconds. Never
+    raises — unparseable values become None (treated as unverified)."""
+    if value is None or value == "":
+        return None
+    if isinstance(value, (int, float)):
+        try:
+            seconds = value / 1000 if value > 10**11 else value
+            return datetime.fromtimestamp(seconds, tz=timezone.utc).isoformat()
+        except (ValueError, OSError, OverflowError):
+            return None
+    if isinstance(value, str):
+        return value
+    return None
