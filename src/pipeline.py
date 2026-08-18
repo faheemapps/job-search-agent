@@ -54,8 +54,8 @@ def is_expired(job: dict, max_age_days: int = 45) -> bool:
     if job.get("posting_date_status") != "VERIFIED" or not job.get("posting_date"):
         return False
     try:
-        dt = datetime.fromisoformat(job["posting_date"].replace("Z", "+00:00"))
-    except ValueError:
+        dt = datetime.fromisoformat(str(job["posting_date"]).replace("Z", "+00:00"))
+    except (ValueError, TypeError, AttributeError):
         return False
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
