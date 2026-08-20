@@ -1,12 +1,12 @@
-# Daily Job Search Report — 2026-08-20 18:22 UTC
+# Daily Job Search Report — 2026-08-20 22:17 UTC
 
 ## Run Summary
 
-- New jobs found: 72
-- Total jobs processed this run: 166
+- New jobs found: 56
+- Total jobs processed this run: 155
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 27
+- Jobs posted in last 24h (verified): 26
 - India-remote confirmed: 0
 - High-paying (high/very high tier): 9
 
@@ -179,12 +179,12 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | name | Senior Data Architect | 57 | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
 | Superhuman%20Platform%20Inc | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973) |
 | Superhuman | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243) |
+| Netlight | Data Platform & Data Architecture Consultant | 50 | aws, azure, ms_fabric, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-248331) |
 | intercom | Staff Data Engineer - GTM | 49 | airflow, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-data-engineer-gtm-london-473413) |
 | Rocketsciencegg | Platform Data Engineer - Cardiff | 48 | airflow, aws, control_m, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/platform-data-engineer-cardiff-474975) |
 | pmOne AG | (Junior) Consultant - Data & Analytics | 44 | azure, data_warehouse, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/pmone-ag/junior-consultant-data-analytics-munich-8899) |
 | Techtorch | Data Architect | 71 | aws, azure, data_warehouse, etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554) |
 | databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | 64 | aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
-| name | Resident Solutions Architect | 63 | aws, etl, python, snowflake, sql | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
