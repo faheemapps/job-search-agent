@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-20 06:25 UTC
+# Daily Job Search Report — 2026-08-20 10:20 UTC
 
 ## Run Summary
 
-- New jobs found: 47
-- Total jobs processed this run: 178
+- New jobs found: 84
+- Total jobs processed this run: 197
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 44
+- Jobs posted in last 24h (verified): 65
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 15
+- High-paying (high/very high tier): 21
 
 ## TOP 20 JOBS
 
@@ -155,15 +155,15 @@ Gap:
 | name | Resident Solutions Architect | USD 2,159,784 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 | name | SEO/ASO Manager | USD 1,458,000-2,142,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/life360/jobs/seo-aso-manager) |
 | Kertos | (Senior) Professional Services Consultant - Information Security (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/senior-professional-services-consultant-information-security-all-genders-munchen-112099) |
+| Kertos | Team Lead Privacy (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/team-lead-privacy-all-genders-munich-265478) |
+| Kertos | Head of Compliance (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/head-of-compliance-all-genders-munich-394346) |
+| Kertos | Head of Product (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/head-of-product-all-genders-munich-383551) |
+| Kertos | Channel Sales Manager (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/channel-sales-manager-all-genders-munich-352187) |
 | Leapsome | Creative & Paid Social Strategist (d/f/m) - German-speaking | EUR 960,000-1,200,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/leapsome/creative-paid-social-strategist-german-speaking-berlin-230786) |
 | Voltus | Sales Associate | USD 660,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/voltus/jobs/sales-associate) |
 | Outsite | Business Development Representative | USD 540,000-600,000 | REMOTE_GLOBAL | [Apply](https://remotive.com/remote-jobs/sales/business-development-representative-2091075) |
 | Bowatt | Founding Product Success Manager, Head of CS Track | EUR 500,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-success-manager-head-of-cs-track-munich-36660) |
 | Camunda | Enterprise Account Executive UKI | USD 281,300-453,500 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.co.uk/jobs/companies/camunda/enterprise-account-executive-uki-united-kingdom-46770) |
-| Lifelancer | Hepatology Account Manager - Seattle, WA | USD 162,750-271,250 | UNKNOWN | [Apply](https://himalayas.app/companies/lifelancer/jobs/hepatology-account-manager-seattle-wa) |
-| name | Cell Therapy Marketplace Director (MPD) - Mountain West Region | USD 205,615-266,090 | UNKNOWN | [Apply](https://himalayas.app/companies/kite-pharma/jobs/cell-therapy-marketplace-director-mpd-mountain-west-region-4886034869) |
-| name | Director, Software Engineering | USD 235,000 | UNKNOWN | [Apply](https://himalayas.app/companies/datavant/jobs/director-software-engineering) |
-| Camunda | Senior Software Engineer, Backend | USD 143,800-231,900 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-118699) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
