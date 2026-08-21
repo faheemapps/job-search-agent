@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-21 02:55 UTC
+# Daily Job Search Report — 2026-08-21 06:25 UTC
 
 ## Run Summary
 
-- New jobs found: 63
-- Total jobs processed this run: 172
+- New jobs found: 60
+- Total jobs processed this run: 175
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 46
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 15
+- Jobs posted in last 24h (verified): 43
+- India-remote confirmed: 1
+- High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
 
@@ -155,6 +155,7 @@ Gap:
 | name | 1LMX RMS Systems Engineering - FULLTIME TELEWORK | USD 1,279,200-2,376,000 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/1lmx-rms-systems-engineering-fulltime-telework) |
 | name | Resident Solutions Architect | USD 2,159,784 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 | name | SEO/ASO Manager | USD 1,458,000-2,142,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/life360/jobs/seo-aso-manager) |
+| Fivetran | Partner Solutions Architect | USD 1,778,160 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/partner-solutions-architect) |
 | Kertos | (Senior) Professional Services Consultant - Information Security (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/senior-professional-services-consultant-information-security-all-genders-munchen-112099) |
 | Kertos | Team Lead Privacy (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/team-lead-privacy-all-genders-munich-265478) |
 | Kertos | Head of Compliance (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/head-of-compliance-all-genders-munich-394346) |
@@ -163,7 +164,6 @@ Gap:
 | Fireblocks | Sales Director,  DACH | EUR 964,800-1,206,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/fireblocks/sales-director-dach-berlin-berlin-451992) |
 | Leapsome | Creative & Paid Social Strategist (d/f/m) - German-speaking | EUR 960,000-1,200,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/leapsome/creative-paid-social-strategist-german-speaking-berlin-457979) |
 | Leapsome | CS Enablement Manager (d/f/m) | EUR 600,000-960,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/leapsome/cs-enablement-manager-berlin-22885) |
-| Voltus | Sales Associate | USD 660,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/voltus/jobs/sales-associate) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
@@ -222,3 +222,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | 59 | NOT_AVAILABLE | [Apply](https://to.indeed.com/aalyshf86v8t) |
 | Codvo.ai | Snowflake Data Platform Lead(India) | 56 | NOT_AVAILABLE | [Apply](https://to.indeed.com/aa2cnyg9dm76) |
 | FuGenEd | Senior Data Architect | 44 | NOT_AVAILABLE | [Apply](https://to.indeed.com/aa28mh784nq6) |
+| Airbnb | Operations Engineer, BizTech | 45 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/airbnb/jobs/operations-engineer-biztech) |
