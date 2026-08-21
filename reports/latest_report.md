@@ -1,13 +1,13 @@
-# Daily Job Search Report — 2026-08-21 06:25 UTC
+# Daily Job Search Report — 2026-08-21 10:19 UTC
 
 ## Run Summary
 
 - New jobs found: 60
-- Total jobs processed this run: 175
+- Total jobs processed this run: 159
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 43
-- India-remote confirmed: 1
+- Jobs posted in last 24h (verified): 28
+- India-remote confirmed: 0
 - High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
@@ -156,6 +156,7 @@ Gap:
 | name | Resident Solutions Architect | USD 2,159,784 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 | name | SEO/ASO Manager | USD 1,458,000-2,142,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/life360/jobs/seo-aso-manager) |
 | Fivetran | Partner Solutions Architect | USD 1,778,160 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/partner-solutions-architect) |
+| Phreesia | Senior Recruiter | USD 1,200,000-1,440,000 | UNKNOWN | [Apply](https://himalayas.app/companies/phreesia/jobs/senior-recruiter) |
 | Kertos | (Senior) Professional Services Consultant - Information Security (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/senior-professional-services-consultant-information-security-all-genders-munchen-112099) |
 | Kertos | Team Lead Privacy (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/team-lead-privacy-all-genders-munich-265478) |
 | Kertos | Head of Compliance (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/head-of-compliance-all-genders-munich-394346) |
@@ -163,7 +164,6 @@ Gap:
 | Kertos | Channel Sales Manager (all genders) | EUR 1,400,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/kertos/channel-sales-manager-all-genders-munich-352187) |
 | Fireblocks | Sales Director,  DACH | EUR 964,800-1,206,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/fireblocks/sales-director-dach-berlin-berlin-451992) |
 | Leapsome | Creative & Paid Social Strategist (d/f/m) - German-speaking | EUR 960,000-1,200,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/leapsome/creative-paid-social-strategist-german-speaking-berlin-457979) |
-| Leapsome | CS Enablement Manager (d/f/m) | EUR 600,000-960,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/leapsome/cs-enablement-manager-berlin-22885) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
