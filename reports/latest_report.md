@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-22 02:46 UTC
+# Daily Job Search Report — 2026-08-22 06:20 UTC
 
 ## Run Summary
 
-- New jobs found: 40
-- Total jobs processed this run: 174
+- New jobs found: 52
+- Total jobs processed this run: 171
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 28
+- Jobs posted in last 24h (verified): 23
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 10
+- High-paying (high/very high tier): 9
 
 ## TOP 20 JOBS
 
@@ -26,14 +26,14 @@
 | 10 | 64 | databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
 | 11 | 64 | Eraneos | Senior Manager Data Analytics (w/m/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, ms_fabric | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
 | 12 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
-| 13 | 61 | Alexander Thamm GmbH | Senior Data Engineer (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544) |
-| 14 | 61 | Enpal | Staff Data Engineer (f/m/d)_metrify | HYBRID | UNVERIFIED | NOT_AVAILABLE | airflow, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
-| 15 | 61 | TodayTix Group | Lead Data Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503) |
-| 16 | 46 | Wing Assistant | API Integrations Engineer | REMOTE_GLOBAL | 2026-08-21 | INR 12,000,000 | python | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
-| 17 | 59 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | REMOTE_INDIA_CONFIRMED | 2026-08-04 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aalyshf86v8t) |
-| 18 | 50 | PRIMUS Global Services Inc. | Snowflake Data Architect - Healthcare Claims, Remote | UNKNOWN | 2026-08-14 | USD 65-70 | snowflake | [Apply](https://www.dice.com/job-detail/b6586538-9c06-4c5f-8481-fd1a1b7f33a1) |
-| 19 | 50 | Tech Tandem Inc | Healthcare Data Architect / Snowflake Architect (MedInsight) | UNKNOWN | 2026-08-14 | USD 95 | snowflake | [Apply](https://www.dice.com/job-detail/e29b9a5c-6583-48bb-b2ac-fbe248fade9a) |
-| 20 | 50 | name | Director, Revenue Cycle Management | REMOTE_GLOBAL | 2026-08-19 | USD 140,000 | sql | [Apply](https://himalayas.app/companies/simplifed/jobs/director-revenue-cycle-management) |
+| 13 | 52 | SafeLease | Director of Data & Analytics | HYBRID | 2026-08-22 | NOT_AVAILABLE | control_m, python, snowflake, sql | [Apply](https://himalayas.app/companies/safelease/jobs/director-of-data-analytics) |
+| 14 | 61 | Alexander Thamm GmbH | Senior Data Engineer (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544) |
+| 15 | 61 | Enpal | Staff Data Engineer (f/m/d)_metrify | HYBRID | UNVERIFIED | NOT_AVAILABLE | airflow, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
+| 16 | 61 | TodayTix Group | Lead Data Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503) |
+| 17 | 46 | Wing Assistant | API Integrations Engineer | REMOTE_GLOBAL | 2026-08-21 | INR 12,000,000 | python | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
+| 18 | 59 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | REMOTE_INDIA_CONFIRMED | 2026-08-04 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aalyshf86v8t) |
+| 19 | 50 | PRIMUS Global Services Inc. | Snowflake Data Architect - Healthcare Claims, Remote | UNKNOWN | 2026-08-14 | USD 65-70 | snowflake | [Apply](https://www.dice.com/job-detail/b6586538-9c06-4c5f-8481-fd1a1b7f33a1) |
+| 20 | 50 | Tech Tandem Inc | Healthcare Data Architect / Snowflake Architect (MedInsight) | UNKNOWN | 2026-08-14 | USD 95 | snowflake | [Apply](https://www.dice.com/job-detail/e29b9a5c-6583-48bb-b2ac-fbe248fade9a) |
 
 ## TOP 5 — APPLY FIRST
 
