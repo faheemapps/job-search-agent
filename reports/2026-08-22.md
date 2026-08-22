@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-22 18:13 UTC
+# Daily Job Search Report — 2026-08-22 22:10 UTC
 
 ## Run Summary
 
-- New jobs found: 44
-- Total jobs processed this run: 168
+- New jobs found: 58
+- Total jobs processed this run: 173
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 21
+- Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 8
+- High-paying (high/very high tier): 10
 
 ## TOP 20 JOBS
 
@@ -22,18 +22,18 @@
 | 6 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
 | 7 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
 | 8 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-19 | USD 11 | airflow, aws, azure, python | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
-| 9 | 66 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
-| 10 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
-| 11 | 64 | databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
-| 12 | 64 | Eraneos | Senior Manager Data Analytics (w/m/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, ms_fabric | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
-| 13 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
-| 14 | 52 | SafeLease | Director of Data & Analytics | HYBRID | 2026-08-22 | NOT_AVAILABLE | control_m, python, snowflake, sql | [Apply](https://himalayas.app/companies/safelease/jobs/director-of-data-analytics) |
-| 15 | 61 | Alexander Thamm GmbH | Senior Data Engineer (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544) |
-| 16 | 61 | Enpal | Staff Data Engineer (f/m/d)_metrify | HYBRID | UNVERIFIED | NOT_AVAILABLE | airflow, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
-| 17 | 61 | TodayTix Group | Lead Data Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503) |
-| 18 | 46 | Wing Assistant | API Integrations Engineer | REMOTE_GLOBAL | 2026-08-21 | INR 12,000,000 | python | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
-| 19 | 51 | DB \| CRESCER com propósito! | Tech Lead Dados - Segmento de Tecnologia | UNKNOWN | 2026-08-22 | NOT_AVAILABLE | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/db-crescer-com-proposito/jobs/tech-lead-dados-segmento-de-tecnologia) |
-| 20 | 59 | TriDevSofts | We're Hiring \| Data Products & Snowflake Architect | REMOTE_INDIA_CONFIRMED | 2026-08-04 | NOT_AVAILABLE | snowflake | [Apply](https://to.indeed.com/aalyshf86v8t) |
+| 9 | 57 | Guidehouse | Data Platform Lead | UNKNOWN | 2026-08-22 | USD 149,000-248,000 | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/guidehouse/jobs/data-platform-lead-9889535363) |
+| 10 | 66 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
+| 11 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
+| 12 | 64 | databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
+| 13 | 64 | Eraneos | Senior Manager Data Analytics (w/m/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, ms_fabric | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
+| 14 | 53 | Boardroom Appointments | Technology / Domain Specialists | REMOTE_GLOBAL | 2026-08-22 | NOT_AVAILABLE | aws, azure, python | [Apply](https://himalayas.app/companies/boardroom-appointments/jobs/technology-domain-specialists) |
+| 15 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
+| 16 | 52 | SafeLease | Director of Data & Analytics | HYBRID | 2026-08-22 | NOT_AVAILABLE | control_m, python, snowflake, sql | [Apply](https://himalayas.app/companies/safelease/jobs/director-of-data-analytics) |
+| 17 | 61 | Alexander Thamm GmbH | Senior Data Engineer (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544) |
+| 18 | 61 | Enpal | Staff Data Engineer (f/m/d)_metrify | HYBRID | UNVERIFIED | NOT_AVAILABLE | airflow, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
+| 19 | 61 | TodayTix Group | Lead Data Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503) |
+| 20 | 46 | Wing Assistant | API Integrations Engineer | REMOTE_GLOBAL | 2026-08-21 | INR 12,000,000 | python | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
 
 ## TOP 5 — APPLY FIRST
 
