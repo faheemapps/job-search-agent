@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-23 06:21 UTC
+# Daily Job Search Report — 2026-08-23 10:13 UTC
 
 ## Run Summary
 
-- New jobs found: 31
-- Total jobs processed this run: 160
+- New jobs found: 53
+- Total jobs processed this run: 167
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- High-paying (high/very high tier): 8
 
 ## TOP 20 JOBS
 
@@ -30,10 +30,10 @@
 | 14 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
 | 15 | 64 | databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828) |
 | 16 | 64 | Eraneos | Senior Manager Data Analytics (w/m/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, data_warehouse, etl, ms_fabric | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
-| 17 | 53 | Boardroom Appointments | Technology / Domain Specialists | REMOTE_GLOBAL | 2026-08-22 | NOT_AVAILABLE | aws, azure, python | [Apply](https://himalayas.app/companies/boardroom-appointments/jobs/technology-domain-specialists) |
-| 18 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
-| 19 | 52 | SafeLease | Director of Data & Analytics | HYBRID | 2026-08-22 | NOT_AVAILABLE | control_m, python, snowflake, sql | [Apply](https://himalayas.app/companies/safelease/jobs/director-of-data-analytics) |
-| 20 | 61 | Alexander Thamm GmbH | Senior Data Engineer (m/w/d) | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | aws, azure, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544) |
+| 17 | 54 | Provectus | FDE AI/ Solutions Architect (AI, Python/Data) | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/provectus/jobs/fde-ai-solutions-architect-ai-python-data) |
+| 18 | 53 | Boardroom Appointments | Technology / Domain Specialists | REMOTE_GLOBAL | 2026-08-22 | NOT_AVAILABLE | aws, azure, python | [Apply](https://himalayas.app/companies/boardroom-appointments/jobs/technology-domain-specialists) |
+| 19 | 52 | Tekfortune Inc. | Snowflake Architect | UNKNOWN | 2026-08-14 | NOT_AVAILABLE | snowflake | [Apply](https://www.dice.com/job-detail/d8ed94f3-a305-4051-bc2c-0ca3164fb9c7) |
+| 20 | 52 | SafeLease | Director of Data & Analytics | HYBRID | 2026-08-22 | NOT_AVAILABLE | control_m, python, snowflake, sql | [Apply](https://himalayas.app/companies/safelease/jobs/director-of-data-analytics) |
 
 ## TOP 5 — APPLY FIRST
 
@@ -178,13 +178,13 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
 | Enpal | Staff Data Engineer (f/m/d)_metrify | 61 | airflow, azure, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
 | PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-188111) |
+| Bettyjobboard | Senior Data Engineer \| Betty CA | 59 | airflow, aws, data_warehouse, denodo, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
 | name | Senior Data Architect | 57 | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
 | Superhuman%20Platform%20Inc | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973) |
 | Superhuman | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243) |
 | raisin | Working Student Data Engineer (m/f/d) | 51 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/raisin/working-student-data-engineer-berlin-berlin-303757) |
 | Netlight | Data Platform & Data Architecture Consultant | 50 | aws, azure, ms_fabric, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-248331) |
 | Pmone | Managing Consultant – Data & Analytics (w/m/d) | 50 | azure, data_warehouse, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/pmone/managing-consultant-data-analytics-munchen-415293) |
-| intercom | Staff Data Engineer - GTM | 49 | airflow, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-data-engineer-gtm-london-473413) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
