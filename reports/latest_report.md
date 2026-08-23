@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-23 18:13 UTC
+# Daily Job Search Report — 2026-08-23 22:11 UTC
 
 ## Run Summary
 
-- New jobs found: 47
-- Total jobs processed this run: 182
+- New jobs found: 45
+- Total jobs processed this run: 148
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 40
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 13
+- Jobs posted in last 24h (verified): 20
+- India-remote confirmed: 2
+- High-paying (high/very high tier): 15
 
 ## TOP 20 JOBS
 
@@ -162,8 +162,8 @@ Gap:
 | name | Resident Solutions Architect | USD 2,159,784 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 | name | SEO/ASO Manager | USD 1,458,000-2,142,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/life360/jobs/seo-aso-manager) |
 | Fivetran | Partner Solutions Architect | USD 1,778,160 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/partner-solutions-architect) |
+| Pagefreezer | Senior Software Developer | USD 1,320,000-1,740,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/pagefreezer/jobs/senior-software-developer-8527198649) |
 | EverAI | Senior Product Designer (Full Remote - Germany) | EUR 900,000-1,500,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/everai/senior-product-designer-full-remote-germany-494183) |
-| Phreesia | Senior Recruiter | USD 1,200,000-1,440,000 | UNKNOWN | [Apply](https://himalayas.app/companies/phreesia/jobs/senior-recruiter) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
@@ -223,3 +223,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Codvo.ai | Snowflake Data Platform Lead(India) | 56 | NOT_AVAILABLE | [Apply](https://to.indeed.com/aa2cnyg9dm76) |
 | FuGenEd | Senior Data Architect | 44 | NOT_AVAILABLE | [Apply](https://to.indeed.com/aa28mh784nq6) |
 | Airbnb | Operations Engineer, BizTech | 45 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/airbnb/jobs/operations-engineer-biztech) |
+| Revvity | Principal DevOps Engineer – Build, Release and Cloud Automation | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/revvity/jobs/principal-devops-engineer-build-release-and-cloud-automation) |
