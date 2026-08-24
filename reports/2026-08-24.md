@@ -1,13 +1,13 @@
-# Daily Job Search Report — 2026-08-24 10:27 UTC
+# Daily Job Search Report — 2026-08-24 14:33 UTC
 
 ## Run Summary
 
-- New jobs found: 70
-- Total jobs processed this run: 177
+- New jobs found: 84
+- Total jobs processed this run: 186
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 41
-- India-remote confirmed: 1
+- India-remote confirmed: 0
 - High-paying (high/very high tier): 13
 
 ## TOP 20 JOBS
@@ -183,8 +183,8 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | LegitScript | Senior Data Science Engineer | 55 | airflow, data_warehouse, etl, python, snowflake, sql | [Apply](https://himalayas.app/companies/legitscript/jobs/senior-data-science-engineer-6614940624) |
 | Superhuman%20Platform%20Inc | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973) |
 | Superhuman | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243) |
+| Perk | Senior Analytics Engineer | 52 | airflow, aws, control_m, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-101557) |
 | raisin | Working Student Data Engineer (m/f/d) | 51 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/raisin/working-student-data-engineer-berlin-berlin-303757) |
-| Netlight | Data Platform & Data Architecture Consultant | 50 | aws, azure, ms_fabric, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-248331) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
