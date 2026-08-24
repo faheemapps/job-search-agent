@@ -1,9 +1,9 @@
-# Daily Job Search Report — 2026-08-24 14:33 UTC
+# Daily Job Search Report — 2026-08-24 18:22 UTC
 
 ## Run Summary
 
-- New jobs found: 84
-- Total jobs processed this run: 186
+- New jobs found: 54
+- Total jobs processed this run: 175
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 41
@@ -14,10 +14,10 @@
 
 | Rank | Score | Company | Role | Remote | Posted | Salary | Key Skills | Apply |
 | ---- | ----: | ------- | ---- | ------ | ------ | ------ | ---------- | ----- |
-| 1 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
-| 2 | 63 | name | Resident Solutions Architect | UNKNOWN | 2026-08-19 | USD 2,159,784 | aws, etl, python, snowflake | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
-| 3 | 73 | Techtorch | Forward Deployed AI Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204) |
-| 4 | 63 | Salesforce | Senior Technical Architect, Data 360 | UNKNOWN | 2026-08-23 | USD 172,500-260,100 | aws, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/salesforce/jobs/senior-technical-architect-data-360) |
+| 1 | 63 | name | Resident Solutions Architect | UNKNOWN | 2026-08-19 | USD 2,159,784 | aws, etl, python, snowflake | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
+| 2 | 73 | Techtorch | Forward Deployed AI Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204) |
+| 3 | 63 | Salesforce | Senior Technical Architect, Data 360 | UNKNOWN | 2026-08-23 | USD 172,500-260,100 | aws, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/salesforce/jobs/senior-technical-architect-data-360) |
+| 4 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | 5 | 71 | Techtorch | Data Architect | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554) |
 | 6 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
 | 7 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
@@ -36,27 +36,6 @@
 | 20 | 54 | Sell2Rent | Senior Full-Stack Developer (AI-Accelerated Solutions, GCP Focus) - LATAM | UNKNOWN | 2026-08-24 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/sell2rent/jobs/senior-full-stack-developer-ai-accelerated-solutions-gcp-focus-latam) |
 
 ## TOP 5 — APPLY FIRST
-
-### Vomela — Principal Data Engineer
-
-Match Score: 70/100  
-Why:  
-  ✓ Snowflake  
-  ✓ Microsoft Fabric/Azure  
-  ✓ sql/etl  
-  ✓ 16+ years experience  
-  ✓ Manager/Architect role  
-Gap:  
-  △ Informatica PowerCenter/IDMC not mentioned  
-  △ Oracle PL/SQL not mentioned  
-  △ Airflow not mentioned
-
-- **Salary:** USD 180-200,000 (very_high)
-- **Remote eligibility:** UNKNOWN (evidence: _generic 'remote' with no location qualifier_)
-- **Posted:** 2026-08-17
-- **Application link:** https://remoteok.com/remote-jobs/1136860
-- **Recruiter/contact:** NOT_AVAILABLE
-- **Source(s):** RemoteOK
 
 ### name — Resident Solutions Architect
 
@@ -122,6 +101,27 @@ Gap:
 - **Recruiter/contact:** NOT_AVAILABLE
 - **Source(s):** Himalayas
 
+### Vomela — Principal Data Engineer
+
+Match Score: 70/100  
+Why:  
+  ✓ Snowflake  
+  ✓ Microsoft Fabric/Azure  
+  ✓ sql/etl  
+  ✓ 16+ years experience  
+  ✓ Manager/Architect role  
+Gap:  
+  △ Informatica PowerCenter/IDMC not mentioned  
+  △ Oracle PL/SQL not mentioned  
+  △ Airflow not mentioned
+
+- **Salary:** USD 180-200,000 (very_high)
+- **Remote eligibility:** UNKNOWN (evidence: _generic 'remote' with no location qualifier_)
+- **Posted:** 2026-08-17
+- **Application link:** https://remoteok.com/remote-jobs/1136860
+- **Recruiter/contact:** NOT_AVAILABLE
+- **Source(s):** RemoteOK
+
 ### Techtorch — Data Architect
 
 Match Score: 71/100  
@@ -149,6 +149,7 @@ Gap:
 
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
+| Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-113609) |
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
@@ -163,7 +164,6 @@ Gap:
 | name | SEO/ASO Manager | USD 1,458,000-2,142,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/life360/jobs/seo-aso-manager) |
 | Fivetran | Partner Solutions Architect | USD 1,778,160 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/partner-solutions-architect) |
 | Pagefreezer | Senior Software Developer | USD 1,320,000-1,740,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/pagefreezer/jobs/senior-software-developer-8527198649) |
-| EverAI | Senior Product Designer (Full Remote - Germany) | EUR 900,000-1,500,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/everai/senior-product-designer-full-remote-germany-494183) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
