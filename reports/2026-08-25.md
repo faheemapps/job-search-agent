@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-25 14:34 UTC
+# Daily Job Search Report — 2026-08-25 18:23 UTC
 
 ## Run Summary
 
-- New jobs found: 52
-- Total jobs processed this run: 149
+- New jobs found: 42
+- Total jobs processed this run: 157
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 23
+- Jobs posted in last 24h (verified): 25
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 7
 
 ## TOP 20 JOBS
 
@@ -178,12 +178,12 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
 | Enpal | Staff Data Engineer (f/m/d)_metrify | 61 | airflow, azure, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
 | PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-188111) |
+| Bgbxconsulting | Data Engineer | 60 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711) |
 | Bettyjobboard | Senior Data Engineer \| Betty CA | 59 | airflow, aws, data_warehouse, denodo, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
 | name | Senior Data Architect | 57 | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
 | LegitScript | Senior Data Science Engineer | 55 | airflow, data_warehouse, etl, python, snowflake, sql | [Apply](https://himalayas.app/companies/legitscript/jobs/senior-data-science-engineer-6614940624) |
+| Anaplan | Data Scientist | 55 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343) |
 | Superhuman%20Platform%20Inc | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973) |
-| Superhuman | Data Engineer | 52 | airflow, aws, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243) |
-| Perk | Senior Analytics Engineer | 52 | airflow, aws, control_m, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-101557) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
