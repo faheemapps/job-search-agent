@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-28 01:52 UTC
+# Daily Job Search Report — 2026-08-28 13:29 UTC
 
 ## Run Summary
 
-- New jobs found: 62
-- Total jobs processed this run: 165
+- New jobs found: 69
+- Total jobs processed this run: 161
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 25
+- Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 8
+- High-paying (high/very high tier): 14
 
 ## TOP 20 JOBS
 
@@ -154,6 +154,7 @@ Gap:
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-113609) |
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
 | Wing Assistant | API Integrations Engineer | INR 12,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
+| Darkroom | Director, Paid Media | USD 600,000-6,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/darkroom/jobs/director-paid-media) |
 | name | Chief of Staff, Online Grocery | USD 2,868,000 | UNKNOWN | [Apply](https://himalayas.app/companies/instacart/jobs/chief-of-staff-online-grocery-9699193341) |
 | name | Software Engineer Sr - PTC Windchill Developer | USD 1,471,200-2,731,200 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/software-engineer-sr-ptc-windchill-developer) |
 | IPX Power USA, LLC | Senior Electrical Engineer, High Voltage | USD 2,280,000-2,400,000 | UNKNOWN | [Apply](https://himalayas.app/companies/ipx-power-usa-llc/jobs/senior-electrical-engineer-high-voltage) |
@@ -162,7 +163,6 @@ Gap:
 | Talkspace | Product Manager | USD 1,560,000-2,160,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/talkspace/jobs/product-manager) |
 | name | Resident Solutions Architect | USD 2,159,784 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 | name | SEO/ASO Manager | USD 1,458,000-2,142,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/life360/jobs/seo-aso-manager) |
-| chainguard | Senior Manager, Customer Success Management - EMEA/APJ | GBP 1,800,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-manager-customer-success-management-emea-apj-456935) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
