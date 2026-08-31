@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-31 17:18 UTC
+# Daily Job Search Report — 2026-08-31 22:08 UTC
 
 ## Run Summary
 
-- New jobs found: 77
-- Total jobs processed this run: 182
+- New jobs found: 49
+- Total jobs processed this run: 155
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 44
+- Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 8
 
 ## TOP 20 JOBS
 
@@ -151,6 +151,7 @@ Gap:
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
 | TYTAN Technologies GmbH | Senior Full-Stack Developer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-full-stack-developer-munich-306463) |
+| TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-16640) |
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-113609) |
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
@@ -162,7 +163,6 @@ Gap:
 | IPX Power USA, LLC | Senior Electrical Engineer, High Voltage | USD 2,280,000-2,400,000 | UNKNOWN | [Apply](https://himalayas.app/companies/ipx-power-usa-llc/jobs/senior-electrical-engineer-high-voltage) |
 | name | 1LMX RMS Systems Engineering - FULLTIME TELEWORK | USD 1,279,200-2,376,000 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/1lmx-rms-systems-engineering-fulltime-telework) |
 | blackforestlabs | Senior Account Executive | EUR 1,800,000-2,220,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/blackforestlabs/senior-account-executive-paris-france-amsterdam-netherlands-london-united-kingdom-334978) |
-| Talkspace | Product Manager | USD 1,560,000-2,160,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/talkspace/jobs/product-manager) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
