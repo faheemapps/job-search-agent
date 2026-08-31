@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-08-31 00:01 UTC
+# Daily Job Search Report — 2026-08-31 07:49 UTC
 
 ## Run Summary
 
-- New jobs found: 34
-- Total jobs processed this run: 148
+- New jobs found: 53
+- Total jobs processed this run: 171
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 22
+- Jobs posted in last 24h (verified): 40
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 5
+- High-paying (high/very high tier): 9
 
 ## TOP 20 JOBS
 
@@ -24,16 +24,16 @@
 | 8 | 61 | Yoodli Inc. | Solutions Engineer - Mid Market | UNKNOWN | 2026-08-25 | USD 142,000-170,000 | python, snowflake, sql | [Apply](https://himalayas.app/companies/yoodli-inc/jobs/solutions-engineer-mid-market) |
 | 9 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
 | 10 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
-| 11 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
-| 12 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
-| 13 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
-| 14 | 57 | Guidehouse | Data Platform Lead | UNKNOWN | 2026-08-22 | USD 149,000-248,000 | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/guidehouse/jobs/data-platform-lead-9889535363) |
-| 15 | 57 | US LBM | US LBM Lead Data Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-23 | NOT_AVAILABLE | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/us-lbm/jobs/us-lbm-lead-data-engineer) |
-| 16 | 66 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
-| 17 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
-| 18 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-19 | USD 11 | airflow, aws, azure, python | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
-| 19 | 55 | LegitScript | Senior Data Science Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-24 | NOT_AVAILABLE | airflow, data_warehouse, etl, python | [Apply](https://himalayas.app/companies/legitscript/jobs/senior-data-science-engineer-6614940624) |
-| 20 | 65 | chainguard | Senior Manager, Customer Success Management - EMEA/APJ | REMOTE_GLOBAL | UNVERIFIED | GBP 1,800,000 | snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-manager-customer-success-management-emea-apj-456935) |
+| 11 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
+| 12 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
+| 13 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
+| 14 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
+| 15 | 57 | Guidehouse | Data Platform Lead | UNKNOWN | 2026-08-22 | USD 149,000-248,000 | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/guidehouse/jobs/data-platform-lead-9889535363) |
+| 16 | 57 | US LBM | US LBM Lead Data Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-23 | NOT_AVAILABLE | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/us-lbm/jobs/us-lbm-lead-data-engineer) |
+| 17 | 66 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
+| 18 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
+| 19 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-19 | USD 11 | airflow, aws, azure, python | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
+| 20 | 55 | LegitScript | Senior Data Science Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-24 | NOT_AVAILABLE | airflow, data_warehouse, etl, python | [Apply](https://himalayas.app/companies/legitscript/jobs/senior-data-science-engineer-6614940624) |
 
 ## TOP 5 — APPLY FIRST
 
@@ -171,6 +171,7 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | ------- | ---- | ----: | -------------- | ----- |
 | Techtorch | Forward Deployed AI Engineer | 73 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204) |
 | Vomela | Principal Data Engineer | 70 | adls, azure, etl, ms_fabric, snowflake, sql, sql_perf_tuning | [Apply](https://remoteok.com/remote-jobs/1136860) |
+| Anaplan | Principal Data Engineer | 69 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | 66 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remoteok.com/remote-jobs/1136594) |
 | Eraneos | Senior Manager Data Analytics (w/m/d) | 64 | aws, data_warehouse, etl, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
@@ -183,7 +184,6 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Synvert | Senior / Principal Cloud / Data Engineer (all genders) | 59 | aws, azure, data_warehouse, etl, ms_fabric, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/synvert/senior-principal-cloud-data-engineer-all-genders-munster-415397) |
 | name | Senior Data Architect | 57 | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
 | LegitScript | Senior Data Science Engineer | 55 | airflow, data_warehouse, etl, python, snowflake, sql | [Apply](https://himalayas.app/companies/legitscript/jobs/senior-data-science-engineer-6614940624) |
-| Anaplan | Data Scientist | 55 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
