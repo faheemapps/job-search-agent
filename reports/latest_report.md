@@ -1,12 +1,12 @@
-# Daily Job Search Report — 2026-08-31 07:49 UTC
+# Daily Job Search Report — 2026-08-31 17:18 UTC
 
 ## Run Summary
 
-- New jobs found: 53
-- Total jobs processed this run: 171
+- New jobs found: 77
+- Total jobs processed this run: 182
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 40
+- Jobs posted in last 24h (verified): 44
 - India-remote confirmed: 0
 - High-paying (high/very high tier): 9
 
@@ -156,13 +156,13 @@ Gap:
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
 | Wing Assistant | API Integrations Engineer | INR 12,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
 | Darkroom | Director, Paid Media | USD 600,000-6,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/darkroom/jobs/director-paid-media) |
+| Brown & Brown Insurance | Employee Benefits Account Manager | USD 6,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/bbrown/jobs/employee-benefits-account-manager) |
 | name | Chief of Staff, Online Grocery | USD 2,868,000 | UNKNOWN | [Apply](https://himalayas.app/companies/instacart/jobs/chief-of-staff-online-grocery-9699193341) |
 | name | Software Engineer Sr - PTC Windchill Developer | USD 1,471,200-2,731,200 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/software-engineer-sr-ptc-windchill-developer) |
 | IPX Power USA, LLC | Senior Electrical Engineer, High Voltage | USD 2,280,000-2,400,000 | UNKNOWN | [Apply](https://himalayas.app/companies/ipx-power-usa-llc/jobs/senior-electrical-engineer-high-voltage) |
 | name | 1LMX RMS Systems Engineering - FULLTIME TELEWORK | USD 1,279,200-2,376,000 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/1lmx-rms-systems-engineering-fulltime-telework) |
 | blackforestlabs | Senior Account Executive | EUR 1,800,000-2,220,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/blackforestlabs/senior-account-executive-paris-france-amsterdam-netherlands-london-united-kingdom-334978) |
 | Talkspace | Product Manager | USD 1,560,000-2,160,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/talkspace/jobs/product-manager) |
-| name | Resident Solutions Architect | USD 2,159,784 | UNKNOWN | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
