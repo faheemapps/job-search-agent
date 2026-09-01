@@ -1,13 +1,13 @@
-# Daily Job Search Report — 2026-09-01 14:23 UTC
+# Daily Job Search Report — 2026-09-01 20:16 UTC
 
 ## Run Summary
 
-- New jobs found: 58
-- Total jobs processed this run: 160
+- New jobs found: 92
+- Total jobs processed this run: 186
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 24
-- India-remote confirmed: 0
+- Jobs posted in last 24h (verified): 52
+- India-remote confirmed: 1
 - High-paying (high/very high tier): 8
 
 ## TOP 20 JOBS
@@ -22,18 +22,18 @@
 | 6 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | 7 | 71 | Techtorch | Data Architect | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554) |
 | 8 | 61 | Yoodli Inc. | Solutions Engineer - Mid Market | UNKNOWN | 2026-08-25 | USD 142,000-170,000 | python, snowflake, sql | [Apply](https://himalayas.app/companies/yoodli-inc/jobs/solutions-engineer-mid-market) |
-| 9 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
-| 10 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
-| 11 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
-| 12 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
-| 13 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
-| 14 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
-| 15 | 57 | Guidehouse | Data Platform Lead | UNKNOWN | 2026-08-22 | USD 149,000-248,000 | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/guidehouse/jobs/data-platform-lead-9889535363) |
-| 16 | 57 | US LBM | US LBM Lead Data Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-23 | NOT_AVAILABLE | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/us-lbm/jobs/us-lbm-lead-data-engineer) |
-| 17 | 66 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
-| 18 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
-| 19 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-19 | USD 11 | airflow, aws, azure, python | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
-| 20 | 55 | LegitScript | Senior Data Science Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-24 | NOT_AVAILABLE | airflow, data_warehouse, etl, python | [Apply](https://himalayas.app/companies/legitscript/jobs/senior-data-science-engineer-6614940624) |
+| 9 | 61 | Metova | Senior Data Engineer | UNKNOWN | 2026-09-01 | NOT_AVAILABLE | azure, control_m, data_warehouse, etl | [Apply](https://himalayas.app/companies/metova/jobs/senior-data-engineer) |
+| 10 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
+| 11 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
+| 12 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
+| 13 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
+| 14 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
+| 15 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
+| 16 | 57 | Guidehouse | Data Platform Lead | UNKNOWN | 2026-08-22 | USD 149,000-248,000 | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/guidehouse/jobs/data-platform-lead-9889535363) |
+| 17 | 57 | US LBM | US LBM Lead Data Engineer | REMOTE_COUNTRY_RESTRICTED | 2026-08-23 | NOT_AVAILABLE | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/us-lbm/jobs/us-lbm-lead-data-engineer) |
+| 18 | 66 | Jobrad Loop | Senior Data Engineer (m/w/d) – Snowflake | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090) |
+| 19 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-13 | USD 11 | airflow, aws, azure, python | [Apply](https://remoteok.com/remote-jobs/1136594) |
+| 20 | 64 | Lemon.io | Senior Data Engineer | UNKNOWN | 2026-08-19 | USD 11 | airflow, aws, azure, python | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
 
 ## TOP 5 — APPLY FIRST
 
@@ -159,10 +159,10 @@ Gap:
 | Darkroom | Director, Paid Media | USD 600,000-6,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/darkroom/jobs/director-paid-media) |
 | Brown & Brown Insurance | Employee Benefits Account Manager | USD 6,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/bbrown/jobs/employee-benefits-account-manager) |
 | Affirm | Senior Accounts Management Manager | USD 2,775,000-3,675,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/affirm/jobs/senior-accounts-management-manager) |
+| Orca Security | DevOps Lead (FedRAMP) | USD 2,760,000-3,120,000 | HYBRID | [Apply](https://himalayas.app/companies/orca-security/jobs/devops-lead-fedramp) |
 | name | Chief of Staff, Online Grocery | USD 2,868,000 | UNKNOWN | [Apply](https://himalayas.app/companies/instacart/jobs/chief-of-staff-online-grocery-9699193341) |
 | name | Software Engineer Sr - PTC Windchill Developer | USD 1,471,200-2,731,200 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/software-engineer-sr-ptc-windchill-developer) |
 | IPX Power USA, LLC | Senior Electrical Engineer, High Voltage | USD 2,280,000-2,400,000 | UNKNOWN | [Apply](https://himalayas.app/companies/ipx-power-usa-llc/jobs/senior-electrical-engineer-high-voltage) |
-| name | 1LMX RMS Systems Engineering - FULLTIME TELEWORK | USD 1,279,200-2,376,000 | UNKNOWN | [Apply](https://himalayas.app/companies/lockheed-martin-corporation/jobs/1lmx-rms-systems-engineering-fulltime-telework) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
@@ -223,3 +223,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | FuGenEd | Senior Data Architect | 44 | NOT_AVAILABLE | [Apply](https://to.indeed.com/aa28mh784nq6) |
 | Airbnb | Operations Engineer, BizTech | 45 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/airbnb/jobs/operations-engineer-biztech) |
 | Revvity | Principal DevOps Engineer – Build, Release and Cloud Automation | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/revvity/jobs/principal-devops-engineer-build-release-and-cloud-automation) |
+| BioCatch | Pre-sales Consultant, India | 42 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/biocatch/jobs/pre-sales-consultant-india) |
