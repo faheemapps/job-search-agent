@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-02 20:14 UTC
+# Daily Job Search Report — 2026-09-02 23:41 UTC
 
 ## Run Summary
 
-- New jobs found: 21
-- Total jobs processed this run: 171
+- New jobs found: 27
+- Total jobs processed this run: 172
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 20
+- Jobs posted in last 24h (verified): 21
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 5
+- High-paying (high/very high tier): 6
 
 ## TOP 20 JOBS
 
@@ -178,7 +178,7 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
 | Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
 | Enpal | Staff Data Engineer (f/m/d)_metrify | 61 | airflow, azure, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
-| PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-188111) |
+| PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-107883) |
 | Bgbxconsulting | Data Engineer | 60 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711) |
 | Bettyjobboard | Senior Data Engineer \| Betty CA | 59 | airflow, aws, data_warehouse, denodo, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
 | Synvert | Senior / Principal Cloud / Data Engineer (all genders) | 59 | aws, azure, data_warehouse, etl, ms_fabric, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/synvert/senior-principal-cloud-data-engineer-all-genders-munster-415397) |
