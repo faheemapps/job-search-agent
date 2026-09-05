@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-05 16:22 UTC
+# Daily Job Search Report — 2026-09-05 19:39 UTC
 
 ## Run Summary
 
-- New jobs found: 52
-- Total jobs processed this run: 181
+- New jobs found: 37
+- Total jobs processed this run: 167
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 42
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 14
+- Jobs posted in last 24h (verified): 23
+- India-remote confirmed: 1
+- High-paying (high/very high tier): 15
 
 ## TOP 20 JOBS
 
@@ -178,12 +178,12 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Eraneos | Senior Manager Data Analytics (w/m/d) | 64 | aws, data_warehouse, etl, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
 | Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
+| Kestra Technologies | Product Manager, Data Orchestration | 62 | airflow, etl, snowflake | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/product-manager-data-orchestration-villeneuve-dascq-379272) |
 | Enpal | Staff Data Engineer (f/m/d)_metrify | 61 | airflow, azure, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
 | PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-107883) |
 | Bgbxconsulting | Data Engineer | 60 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711) |
+| Kestra Technologies | Full Stack Engineer, Data Orchestration | 60 | airflow, aws, azure, etl, snowflake, sql | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/full-stack-engineer-data-orchestration-villeneuve-dascq-452733) |
 | Bettyjobboard | Senior Data Engineer \| Betty CA | 59 | airflow, aws, data_warehouse, denodo, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
-| Synvert | Senior / Principal Cloud / Data Engineer (all genders) | 59 | aws, azure, data_warehouse, etl, ms_fabric, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/synvert/senior-principal-cloud-data-engineer-all-genders-munster-415397) |
-| Zoominfo | Senior Data Engineer | 59 | airflow, aws, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
@@ -224,3 +224,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Airbnb | Operations Engineer, BizTech | 45 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/airbnb/jobs/operations-engineer-biztech) |
 | Revvity | Principal DevOps Engineer – Build, Release and Cloud Automation | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/revvity/jobs/principal-devops-engineer-build-release-and-cloud-automation) |
 | BioCatch | Pre-sales Consultant, India | 42 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/biocatch/jobs/pre-sales-consultant-india) |
+| Kestra Technologies | QA Engineer | 43 | USD 25 | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557) |
