@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-05 06:26 UTC
+# Daily Job Search Report — 2026-09-05 13:07 UTC
 
 ## Run Summary
 
-- New jobs found: 52
-- Total jobs processed this run: 173
+- New jobs found: 56
+- Total jobs processed this run: 167
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 21
+- Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 10
+- High-paying (high/very high tier): 17
 
 ## TOP 20 JOBS
 
@@ -153,6 +153,8 @@ Gap:
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
 | TYTAN Technologies GmbH | Senior Full-Stack Developer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-full-stack-developer-munich-306463) |
 | TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
+| TYTAN Technologies GmbH | Senior GNC Engineer (f/m/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-gnc-engineer-munich-157797) |
+| TYTAN Technologies GmbH | Business Systems Architect (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/business-systems-architect-munich-35365) |
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-16640) |
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-113609) |
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
@@ -161,8 +163,6 @@ Gap:
 | Brown & Brown Insurance | Employee Benefits Account Manager | USD 6,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/bbrown/jobs/employee-benefits-account-manager) |
 | Affirm | Senior Accounts Management Manager | USD 2,775,000-3,675,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/affirm/jobs/senior-accounts-management-manager) |
 | Docker | Account Executive, Strategic (EMEA) | EUR 2,200,800,000-3,144,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.co.uk/jobs/companies/docker/account-executive-strategic-emea-england-390978) |
-| Orca Security | DevOps Lead (FedRAMP) | USD 2,760,000-3,120,000 | HYBRID | [Apply](https://himalayas.app/companies/orca-security/jobs/devops-lead-fedramp) |
-| name | Chief of Staff, Online Grocery | USD 2,868,000 | UNKNOWN | [Apply](https://himalayas.app/companies/instacart/jobs/chief-of-staff-online-grocery-9699193341) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
