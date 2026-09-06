@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-06 06:37 UTC
+# Daily Job Search Report — 2026-09-06 13:16 UTC
 
 ## Run Summary
 
-- New jobs found: 40
-- Total jobs processed this run: 163
+- New jobs found: 49
+- Total jobs processed this run: 159
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 22
+- Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- High-paying (high/very high tier): 8
 
 ## TOP 20 JOBS
 
@@ -183,7 +183,7 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-107883) |
 | Bgbxconsulting | Data Engineer | 60 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711) |
 | Kestra Technologies | Full Stack Engineer, Data Orchestration | 60 | airflow, aws, azure, etl, snowflake, sql | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/full-stack-engineer-data-orchestration-villeneuve-dascq-452733) |
-| Bettyjobboard | Senior Data Engineer \| Betty CA | 59 | airflow, aws, data_warehouse, denodo, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535) |
+| Anaplan | Associate Backend Software Engineer (Python) | 60 | airflow, aws, azure, control_m, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
