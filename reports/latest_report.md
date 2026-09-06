@@ -1,9 +1,9 @@
-# Daily Job Search Report — 2026-09-06 19:43 UTC
+# Daily Job Search Report — 2026-09-06 23:20 UTC
 
 ## Run Summary
 
-- New jobs found: 34
-- Total jobs processed this run: 166
+- New jobs found: 28
+- Total jobs processed this run: 158
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 24
