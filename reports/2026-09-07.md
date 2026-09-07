@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-07 15:23 UTC
+# Daily Job Search Report — 2026-09-07 20:53 UTC
 
 ## Run Summary
 
-- New jobs found: 59
-- Total jobs processed this run: 177
+- New jobs found: 53
+- Total jobs processed this run: 170
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 21
+- Jobs posted in last 24h (verified): 25
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 8
+- High-paying (high/very high tier): 16
 
 ## TOP 20 JOBS
 
@@ -158,11 +158,11 @@ Gap:
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-5553) |
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211) |
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
+| Sport Alliance GmbH | AI-First Data Engineer (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-7282) |
 | Wing Assistant | API Integrations Engineer | INR 12,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
 | Darkroom | Director, Paid Media | USD 600,000-6,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/darkroom/jobs/director-paid-media) |
 | Brown & Brown Insurance | Employee Benefits Account Manager | USD 6,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/bbrown/jobs/employee-benefits-account-manager) |
 | Affirm | Senior Accounts Management Manager | USD 2,775,000-3,675,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/affirm/jobs/senior-accounts-management-manager) |
-| Docker | Account Executive, Strategic (EMEA) | EUR 2,200,800,000-3,144,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.co.uk/jobs/companies/docker/account-executive-strategic-emea-england-390978) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
