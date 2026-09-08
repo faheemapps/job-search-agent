@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-08 06:40 UTC
+# Daily Job Search Report — 2026-09-08 13:59 UTC
 
 ## Run Summary
 
-- New jobs found: 35
-- Total jobs processed this run: 163
+- New jobs found: 72
+- Total jobs processed this run: 181
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 25
+- Jobs posted in last 24h (verified): 44
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 4
+- High-paying (high/very high tier): 9
 
 ## TOP 20 JOBS
 
@@ -29,11 +29,11 @@
 | 13 | 60 | Doordash | Senior Security Data Engineer | UNKNOWN | 2026-09-04 | USD 1,917,600 | aws, control_m, etl, python | [Apply](https://himalayas.app/companies/doordash/jobs/senior-security-data-engineer) |
 | 14 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
 | 15 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
-| 16 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
-| 17 | 68 | caronsale | Machine Learning Engineer (m/f/x) | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, python | [Apply](https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406) |
-| 18 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
-| 19 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
-| 20 | 57 | Guidehouse | Data Platform Lead | UNKNOWN | 2026-08-22 | USD 149,000-248,000 | airflow, aws, azure, etl | [Apply](https://himalayas.app/companies/guidehouse/jobs/data-platform-lead-9889535363) |
+| 16 | 59 | ServiceTrade | Senior Software Engineer, Data Platform | UNKNOWN | 2026-09-08 | NOT_AVAILABLE | airflow, aws, control_m, etl | [Apply](https://himalayas.app/companies/servicetrade/jobs/senior-software-engineer-data-platform) |
+| 17 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
+| 18 | 68 | caronsale | Machine Learning Engineer (m/f/x) | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, python | [Apply](https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406) |
+| 19 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
+| 20 | 57 | name | Associate Director- Private Equity Analytics | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | python, snowflake, sql | [Apply](https://himalayas.app/companies/crosscountry-consulting/jobs/associate-director-private-equity-analytics) |
 
 ## TOP 5 — APPLY FIRST
 
