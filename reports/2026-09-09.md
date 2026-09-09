@@ -1,41 +1,63 @@
-# Daily Job Search Report — 2026-09-09 20:10 UTC
+# Daily Job Search Report — 2026-09-09 23:38 UTC
 
 ## Run Summary
 
-- New jobs found: 41
-- Total jobs processed this run: 170
-- Strong matches (score >= 70): 0
+- New jobs found: 44
+- Total jobs processed this run: 168
+- Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 22
+- Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 6
+- High-paying (high/very high tier): 10
 
 ## TOP 20 JOBS
 
 | Rank | Score | Company | Role | Remote | Posted | Salary | Key Skills | Apply |
 | ---- | ----: | ------- | ---- | ------ | ------ | ------ | ---------- | ----- |
-| 1 | 69 | Harris | Sr Software Engineer | UNKNOWN | 2026-09-09 | NOT_AVAILABLE | azure, control_m, etl, oracle_plsql | [Apply](https://himalayas.app/companies/harris/jobs/sr-software-engineer) |
-| 2 | 63 | name | Resident Solutions Architect | UNKNOWN | 2026-08-19 | USD 2,159,784 | aws, etl, python, snowflake | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
-| 3 | 73 | Techtorch | Forward Deployed AI Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204) |
-| 4 | 63 | Salesforce | Senior Technical Architect, Data 360 | UNKNOWN | 2026-08-23 | USD 172,500-260,100 | aws, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/salesforce/jobs/senior-technical-architect-data-360) |
-| 5 | 63 | Bright Vision Technologies | Data Solutions Architect | UNKNOWN | 2026-08-30 | USD 150,000-180,000 | aws, azure, snowflake | [Apply](https://himalayas.app/companies/bright-vision-technologies/jobs/data-solutions-architect-2808210405) |
-| 6 | 63 | EndeavorB2B | Senior Director Data Platform & Strategy | UNKNOWN | 2026-09-03 | USD 1,800,000 | data_warehouse, etl, snowflake, sql | [Apply](https://himalayas.app/companies/endeavorb2b/jobs/senior-director-data-platform-strategy) |
-| 7 | 62 | Capital Bank | Senior Data Engineer | HYBRID | 2026-08-25 | USD 115,000-130,000 | airflow, aws, azure, data_warehouse | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
-| 8 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
-| 9 | 71 | Techtorch | Data Architect | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554) |
-| 10 | 61 | Yoodli Inc. | Solutions Engineer - Mid Market | UNKNOWN | 2026-08-25 | USD 142,000-170,000 | python, snowflake, sql | [Apply](https://himalayas.app/companies/yoodli-inc/jobs/solutions-engineer-mid-market) |
-| 11 | 61 | Metova | Senior Data Engineer | UNKNOWN | 2026-09-01 | NOT_AVAILABLE | azure, control_m, data_warehouse, etl | [Apply](https://himalayas.app/companies/metova/jobs/senior-data-engineer) |
-| 12 | 61 | Scale Media | Data Analyst | UNKNOWN | 2026-09-05 | USD 960,000-1,140,000 | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/scale-media/jobs/data-analyst) |
-| 13 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
-| 14 | 60 | Doordash | Senior Security Data Engineer | UNKNOWN | 2026-09-04 | USD 1,917,600 | aws, control_m, etl, python | [Apply](https://himalayas.app/companies/doordash/jobs/senior-security-data-engineer) |
-| 15 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
-| 16 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
-| 17 | 59 | ServiceTrade | Senior Software Engineer, Data Platform | UNKNOWN | 2026-09-08 | NOT_AVAILABLE | airflow, aws, control_m, etl | [Apply](https://himalayas.app/companies/servicetrade/jobs/senior-software-engineer-data-platform) |
-| 18 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
-| 19 | 68 | caronsale | Machine Learning Engineer (m/f/x) | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, python | [Apply](https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406) |
-| 20 | 57 | name | Senior Data Architect | UNKNOWN | 2026-08-19 | NOT_AVAILABLE | airflow, snowflake | [Apply](https://himalayas.app/companies/swingdev/jobs/senior-data-architect) |
+| 1 | 71 | Chainguard | Manager, Sales Engineering - EMEA | REMOTE_GLOBAL | 2026-09-09 | NOT_AVAILABLE | aws, azure, python, snowflake | [Apply](https://himalayas.app/companies/chainguard/jobs/manager-sales-engineering-emea) |
+| 2 | 69 | Harris | Sr Software Engineer | UNKNOWN | 2026-09-09 | NOT_AVAILABLE | azure, control_m, etl, oracle_plsql | [Apply](https://himalayas.app/companies/harris/jobs/sr-software-engineer) |
+| 3 | 63 | name | Resident Solutions Architect | UNKNOWN | 2026-08-19 | USD 2,159,784 | aws, etl, python, snowflake | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
+| 4 | 73 | Techtorch | Forward Deployed AI Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204) |
+| 5 | 63 | Salesforce | Senior Technical Architect, Data 360 | UNKNOWN | 2026-08-23 | USD 172,500-260,100 | aws, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/salesforce/jobs/senior-technical-architect-data-360) |
+| 6 | 63 | Bright Vision Technologies | Data Solutions Architect | UNKNOWN | 2026-08-30 | USD 150,000-180,000 | aws, azure, snowflake | [Apply](https://himalayas.app/companies/bright-vision-technologies/jobs/data-solutions-architect-2808210405) |
+| 7 | 63 | EndeavorB2B | Senior Director Data Platform & Strategy | UNKNOWN | 2026-09-03 | USD 1,800,000 | data_warehouse, etl, snowflake, sql | [Apply](https://himalayas.app/companies/endeavorb2b/jobs/senior-director-data-platform-strategy) |
+| 8 | 62 | Capital Bank | Senior Data Engineer | HYBRID | 2026-08-25 | USD 115,000-130,000 | airflow, aws, azure, data_warehouse | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
+| 9 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
+| 10 | 71 | Techtorch | Data Architect | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554) |
+| 11 | 61 | Yoodli Inc. | Solutions Engineer - Mid Market | UNKNOWN | 2026-08-25 | USD 142,000-170,000 | python, snowflake, sql | [Apply](https://himalayas.app/companies/yoodli-inc/jobs/solutions-engineer-mid-market) |
+| 12 | 61 | Metova | Senior Data Engineer | UNKNOWN | 2026-09-01 | NOT_AVAILABLE | azure, control_m, data_warehouse, etl | [Apply](https://himalayas.app/companies/metova/jobs/senior-data-engineer) |
+| 13 | 61 | Scale Media | Data Analyst | UNKNOWN | 2026-09-05 | USD 960,000-1,140,000 | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/scale-media/jobs/data-analyst) |
+| 14 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
+| 15 | 60 | Doordash | Senior Security Data Engineer | UNKNOWN | 2026-09-04 | USD 1,917,600 | aws, control_m, etl, python | [Apply](https://himalayas.app/companies/doordash/jobs/senior-security-data-engineer) |
+| 16 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
+| 17 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
+| 18 | 59 | ServiceTrade | Senior Software Engineer, Data Platform | UNKNOWN | 2026-09-08 | NOT_AVAILABLE | airflow, aws, control_m, etl | [Apply](https://himalayas.app/companies/servicetrade/jobs/senior-software-engineer-data-platform) |
+| 19 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
+| 20 | 68 | caronsale | Machine Learning Engineer (m/f/x) | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, python | [Apply](https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406) |
 
 ## TOP 5 — APPLY FIRST
+
+### Chainguard — Manager, Sales Engineering - EMEA
+
+Match Score: 71/100  
+Why:  
+  ✓ Snowflake  
+  ✓ Microsoft Fabric/Azure  
+  ✓ python  
+  ✓ 16+ years experience  
+  ✓ Remote Global  
+  ✓ Manager/Architect role  
+Gap:  
+  △ Informatica PowerCenter/IDMC not mentioned  
+  △ Oracle PL/SQL not mentioned  
+  △ Airflow not mentioned
+
+- **Salary:** NOT_AVAILABLE (not_disclosed)
+- **Remote eligibility:** REMOTE_GLOBAL (evidence: _remote[- ]first_)
+- **Posted:** 2026-09-09
+- **Application link:** https://himalayas.app/companies/chainguard/jobs/manager-sales-engineering-emea
+- **Recruiter/contact:** NOT_AVAILABLE
+- **Source(s):** Himalayas
 
 ### Harris — Sr Software Engineer
 
@@ -119,27 +141,6 @@ Gap:
 - **Remote eligibility:** UNKNOWN (evidence: _no remote signal found_)
 - **Posted:** 2026-08-23
 - **Application link:** https://himalayas.app/companies/salesforce/jobs/senior-technical-architect-data-360
-- **Recruiter/contact:** NOT_AVAILABLE
-- **Source(s):** Himalayas
-
-### Bright Vision Technologies — Data Solutions Architect
-
-Match Score: 63/100  
-Why:  
-  ✓ Snowflake  
-  ✓ Microsoft Fabric/Azure  
-  ✓ 16+ years experience  
-  ✓ Manager/Architect role  
-Gap:  
-  △ Informatica PowerCenter/IDMC not mentioned  
-  △ Oracle PL/SQL not mentioned  
-  △ Airflow not mentioned  
-  △ Python/SQL/ETL/DW not mentioned
-
-- **Salary:** USD 150,000-180,000 (high)
-- **Remote eligibility:** UNKNOWN (evidence: _generic 'remote' with no location qualifier_)
-- **Posted:** 2026-08-30
-- **Application link:** https://himalayas.app/companies/bright-vision-technologies/jobs/data-solutions-architect-2808210405
 - **Recruiter/contact:** NOT_AVAILABLE
 - **Source(s):** Himalayas
 
