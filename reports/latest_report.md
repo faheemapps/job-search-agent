@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-10 06:46 UTC
+# Daily Job Search Report — 2026-09-10 13:56 UTC
 
 ## Run Summary
 
-- New jobs found: 47
-- Total jobs processed this run: 132
+- New jobs found: 58
+- Total jobs processed this run: 151
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 24
+- Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 6
+- High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
 
