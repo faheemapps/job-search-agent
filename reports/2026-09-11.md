@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-11 20:10 UTC
+# Daily Job Search Report — 2026-09-11 23:39 UTC
 
 ## Run Summary
 
-- New jobs found: 27
-- Total jobs processed this run: 163
+- New jobs found: 40
+- Total jobs processed this run: 145
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 21
+- Jobs posted in last 24h (verified): 10
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 8
 
 ## TOP 20 JOBS
 
@@ -149,6 +149,7 @@ Gap:
 
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
+| Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Yoummday GmbH | Platform & DevOps Engineer (m/f/d) | EUR 600,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-424568) |
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
@@ -163,7 +164,6 @@ Gap:
 | Wing Assistant | API Integrations Engineer | INR 12,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
 | Darkroom | Director, Paid Media | USD 600,000-6,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/darkroom/jobs/director-paid-media) |
 | Brown & Brown Insurance | Employee Benefits Account Manager | USD 6,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/bbrown/jobs/employee-benefits-account-manager) |
-| Affirm | Senior Accounts Management Manager | USD 2,775,000-3,675,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/affirm/jobs/senior-accounts-management-manager) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
