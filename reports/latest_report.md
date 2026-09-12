@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-12 13:14 UTC
+# Daily Job Search Report — 2026-09-12 16:37 UTC
 
 ## Run Summary
 
-- New jobs found: 33
-- Total jobs processed this run: 152
-- Strong matches (score >= 70): 1
+- New jobs found: 23
+- Total jobs processed this run: 145
+- Strong matches (score >= 70): 2
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 20
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 10
+- High-paying (high/very high tier): 8
 
 ## TOP 20 JOBS
 
@@ -29,11 +29,11 @@
 | 13 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | 14 | 60 | Humana | Senior Data Manager-Databricks | HYBRID | 2026-08-20 | USD 97,900-133,500 | azure, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/humana/jobs/senior-data-manager-databricks) |
 | 15 | 60 | Doordash | Senior Security Data Engineer | UNKNOWN | 2026-09-04 | USD 1,917,600 | aws, control_m, etl, python | [Apply](https://himalayas.app/companies/doordash/jobs/senior-security-data-engineer) |
-| 16 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
-| 17 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
-| 18 | 59 | ServiceTrade | Senior Software Engineer, Data Platform | UNKNOWN | 2026-09-08 | NOT_AVAILABLE | airflow, aws, control_m, etl | [Apply](https://himalayas.app/companies/servicetrade/jobs/senior-software-engineer-data-platform) |
-| 19 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
-| 20 | 68 | caronsale | Machine Learning Engineer (m/f/x) | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, python | [Apply](https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406) |
+| 16 | 70 | chainguard | Director, Sales Operations - EMEA and APJ | REMOTE_GLOBAL | UNVERIFIED | GBP 1,980,000 | snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/chainguard/director-sales-operations-emea-and-apj-337327) |
+| 17 | 59 | Quantiphi | Architect Platform Engineer | UNKNOWN | 2026-08-23 | NOT_AVAILABLE | aws, azure, snowflake, sql_perf_tuning | [Apply](https://himalayas.app/companies/quantiphi-com/jobs/architect-platform-engineer-2517510318) |
+| 18 | 69 | Anaplan | Principal Data Engineer | UNKNOWN | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
+| 19 | 59 | ServiceTrade | Senior Software Engineer, Data Platform | UNKNOWN | 2026-09-08 | NOT_AVAILABLE | airflow, aws, control_m, etl | [Apply](https://himalayas.app/companies/servicetrade/jobs/senior-software-engineer-data-platform) |
+| 20 | 68 | Focalsystems | Senior Product Manager | REMOTE_GLOBAL | UNVERIFIED | GBP 90,000-105,000 | etl, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-senior-product-manager-210496) |
 
 ## TOP 5 — APPLY FIRST
 
