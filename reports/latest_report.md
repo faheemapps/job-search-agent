@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-12 16:37 UTC
+# Daily Job Search Report — 2026-09-12 19:47 UTC
 
 ## Run Summary
 
-- New jobs found: 23
-- Total jobs processed this run: 145
+- New jobs found: 18
+- Total jobs processed this run: 151
 - Strong matches (score >= 70): 2
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 20
+- Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 8
+- High-paying (high/very high tier): 9
 
 ## TOP 20 JOBS
 
@@ -182,9 +182,9 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
 | Kestra Technologies | Product Manager, Data Orchestration | 62 | airflow, etl, snowflake | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/product-manager-data-orchestration-villeneuve-dascq-379272) |
 | Enpal | Staff Data Engineer (f/m/d)_metrify | 61 | airflow, azure, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
+| isaraerospace | Senior Data & Backend Software Engineer (f/m/d) | 61 | azure, data_warehouse, etl, ms_fabric, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-290266) |
 | PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-100166) |
 | Bgbxconsulting | Data Engineer | 60 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711) |
-| Kestra Technologies | Full Stack Engineer, Data Orchestration | 60 | airflow, aws, azure, etl, snowflake, sql | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/full-stack-engineer-data-orchestration-villeneuve-dascq-452733) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
