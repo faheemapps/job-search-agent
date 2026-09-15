@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-15 00:05 UTC
+# Daily Job Search Report — 2026-09-15 06:53 UTC
 
 ## Run Summary
 
-- New jobs found: 38
-- Total jobs processed this run: 167
+- New jobs found: 39
+- Total jobs processed this run: 148
 - Strong matches (score >= 70): 1
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 25
+- Jobs posted in last 24h (verified): 21
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 7
 
 ## TOP 20 JOBS
 
@@ -159,11 +159,11 @@ Gap:
 | TYTAN Technologies GmbH | Business Systems Architect (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/business-systems-architect-munich-35365) |
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-495865) |
 | Yoummday GmbH | Senior Security Engineer (m/f/d) | EUR 82,800,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/senior-security-engineer-munchen-238321) |
+| Pigment | Talent Acquisition Manager GTM | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.fr/jobs/companies/pigment/talent-acquisition-manager-gtm-france-207476) |
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211) |
 | Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
 | Sport Alliance GmbH | AI-First Data Engineer (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-7282) |
 | Wing Assistant | API Integrations Engineer | INR 12,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/wing-assistant/jobs/api-integrations-engineer) |
-| Darkroom | Director, Paid Media | USD 600,000-6,000,000 | REMOTE_GLOBAL | [Apply](https://himalayas.app/companies/darkroom/jobs/director-paid-media) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
@@ -182,9 +182,9 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | J.D. Power | Senior Data Platform Engineer, Snowflake | 63 | airflow, aws, control_m, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/j-d-power/jobs/senior-data-platform-engineer-snowflake) |
 | Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
 | Kestra Technologies | Product Manager, Data Orchestration | 62 | airflow, etl, snowflake | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/product-manager-data-orchestration-villeneuve-dascq-379272) |
+| Immersivelabs | Senior Engineering Manager – Data Engineering - Bristol, UK (Hybrid) | 62 | airflow, aws, azure, data_warehouse, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/senior-engineering-manager-data-engineering-bristol-uk-hybrid-17275) |
 | Enpal | Staff Data Engineer (f/m/d)_metrify | 61 | airflow, azure, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291) |
 | isaraerospace | Senior Data & Backend Software Engineer (f/m/d) | 61 | azure, data_warehouse, etl, ms_fabric, python, snowflake | [Apply](https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-290266) |
-| PHMG Careers | Head of Data Engineering | 60 | aws, control_m, data_warehouse, etl, ms_fabric, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-100166) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
