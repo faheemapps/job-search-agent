@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-17 06:52 UTC
+# Daily Job Search Report — 2026-09-17 14:33 UTC
 
 ## Run Summary
 
-- New jobs found: 41
-- Total jobs processed this run: 144
+- New jobs found: 76
+- Total jobs processed this run: 156
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 22
+- Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- High-paying (high/very high tier): 10
 
 ## TOP 20 JOBS
 
@@ -153,6 +153,7 @@ Gap:
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Yoummday GmbH | Platform & DevOps Engineer (m/f/d) | EUR 600,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-424568) |
+| alpaca | Director of Data Platform | USD 480,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/alpaca/director-of-data-platform-272406) |
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
 | TYTAN Technologies GmbH | Senior Full-Stack Developer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-full-stack-developer-munich-306463) |
 | TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
@@ -161,9 +162,8 @@ Gap:
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-495865) |
 | Yoummday GmbH | Senior Security Engineer (m/f/d) | EUR 82,800,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/senior-security-engineer-munchen-454299) |
 | Pigment | Talent Acquisition Manager GTM | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.fr/jobs/companies/pigment/talent-acquisition-manager-gtm-france-207476) |
+| Pigment | Senior GenAI Engineer (UK) | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-genai-engineer-uk-london-360932) |
 | gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211) |
-| Sport Alliance GmbH | Senior Product Manager – SaaS Platform with AI Focus (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-manager-saas-platform-with-ai-focus-13126) |
-| Sport Alliance GmbH | AI-First Data Engineer (m/f/d) | EUR 24,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-7282) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
