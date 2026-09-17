@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-17 14:33 UTC
+# Daily Job Search Report — 2026-09-17 20:42 UTC
 
 ## Run Summary
 
-- New jobs found: 76
+- New jobs found: 61
 - Total jobs processed this run: 156
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 24
+- Jobs posted in last 24h (verified): 23
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 10
+- High-paying (high/very high tier): 7
 
 ## TOP 20 JOBS
 
@@ -152,6 +152,7 @@ Gap:
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
+| Zeal Network | Team Lead Engineering - Finance Automation | EUR 1,800,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998) |
 | Yoummday GmbH | Platform & DevOps Engineer (m/f/d) | EUR 600,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-424568) |
 | alpaca | Director of Data Platform | USD 480,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/alpaca/director-of-data-platform-272406) |
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
@@ -163,7 +164,6 @@ Gap:
 | Yoummday GmbH | Senior Security Engineer (m/f/d) | EUR 82,800,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/senior-security-engineer-munchen-454299) |
 | Pigment | Talent Acquisition Manager GTM | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.fr/jobs/companies/pigment/talent-acquisition-manager-gtm-france-207476) |
 | Pigment | Senior GenAI Engineer (UK) | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-genai-engineer-uk-london-360932) |
-| gridX GmbH | Senior Backend Engineer - Energy Management Platform (all genders) | EUR 36,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
