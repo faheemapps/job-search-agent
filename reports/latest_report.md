@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-18 13:59 UTC
+# Daily Job Search Report — 2026-09-18 17:24 UTC
 
 ## Run Summary
 
-- New jobs found: 56
-- Total jobs processed this run: 151
+- New jobs found: 60
+- Total jobs processed this run: 156
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 21
+- Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 10
 
 ## TOP 20 JOBS
 
@@ -150,6 +150,7 @@ Gap:
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
+| Orbem | Director of Field Operations (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/director-of-field-operations-munich-232472) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Zeal Network | Team Lead Engineering - Finance Automation | EUR 1,800,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998) |
@@ -163,7 +164,6 @@ Gap:
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-495865) |
 | Yoummday GmbH | Senior Security Engineer (m/f/d) | EUR 82,800,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/senior-security-engineer-munchen-454299) |
 | Pigment | Talent Acquisition Manager GTM | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.fr/jobs/companies/pigment/talent-acquisition-manager-gtm-france-207476) |
-| Pigment | Senior GenAI Engineer (UK) | USD 40,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-genai-engineer-uk-london-360932) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
