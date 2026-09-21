@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-21 07:23 UTC
+# Daily Job Search Report — 2026-09-21 16:05 UTC
 
 ## Run Summary
 
-- New jobs found: 68
-- Total jobs processed this run: 154
+- New jobs found: 61
+- Total jobs processed this run: 158
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 21
+- Jobs posted in last 24h (verified): 24
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 14
+- High-paying (high/very high tier): 11
 
 ## TOP 20 JOBS
 
@@ -162,8 +162,8 @@ Gap:
 | TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
 | TYTAN Technologies GmbH | Senior GNC Engineer (f/m/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-gnc-engineer-munich-157797) |
 | TYTAN Technologies GmbH | Business Systems Architect (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/business-systems-architect-munich-35365) |
+| TYTAN Technologies GmbH | Senior Backend Engineer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-backend-engineer-munich-435745) |
 | Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-495865) |
-| Yoummday GmbH | Senior Security Engineer (m/f/d) | EUR 82,800,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/senior-security-engineer-munchen-454299) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
