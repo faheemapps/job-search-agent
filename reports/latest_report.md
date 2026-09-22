@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-22 00:23 UTC
+# Daily Job Search Report — 2026-09-22 06:59 UTC
 
 ## Run Summary
 
-- New jobs found: 81
-- Total jobs processed this run: 161
+- New jobs found: 63
+- Total jobs processed this run: 143
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 46
+- Jobs posted in last 24h (verified): 27
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 18
+- High-paying (high/very high tier): 25
 
 ## TOP 20 JOBS
 
@@ -151,6 +151,7 @@ Gap:
 | ------- | ---- | ------ | ------ | ----- |
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
 | Orbem | Director of Field Operations (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/director-of-field-operations-munich-232472) |
+| væridion | Senior Embedded DevOps & Engineering Platform Engineer - Aviation (all genders) | EUR 8,000,000,000-10,000,000,000 | ONSITE | [Apply](https://www.arbeitnow.com/jobs/companies/vaeridion/senior-embedded-devops-engineering-platform-engineer-aviation-all-genders-munich-282880) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Clariti | Business Development Representative (BDR) | USD 6,000,000,000-7,000,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/clariti/jobs/business-development-representative-bdr) |
@@ -163,7 +164,6 @@ Gap:
 | TYTAN Technologies GmbH | Senior GNC Engineer (f/m/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-gnc-engineer-munich-157797) |
 | TYTAN Technologies GmbH | Business Systems Architect (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/business-systems-architect-munich-35365) |
 | TYTAN Technologies GmbH | Senior Backend Engineer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-backend-engineer-munich-435745) |
-| Capmo | Senior Security Engineer (all genders) | EUR 100,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-495865) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
