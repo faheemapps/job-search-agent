@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-24 06:54 UTC
+# Daily Job Search Report — 2026-09-24 14:31 UTC
 
 ## Run Summary
 
-- New jobs found: 65
-- Total jobs processed this run: 153
+- New jobs found: 61
+- Total jobs processed this run: 133
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 20
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- Jobs posted in last 24h (verified): 21
+- India-remote confirmed: 1
+- High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
 
@@ -152,6 +152,7 @@ Gap:
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
 | Orbem | Senior Director of Product (f/m/d) | EUR 15,000,000,000-18,000,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-director-of-product-munich-193471) |
 | Orbem | Director of Field Operations (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/director-of-field-operations-munich-232472) |
+| Vogel | Cloud Infrastructure Lead (m/w/d) | EUR 9,000,000,000-11,500,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/vogel/cloud-infrastructure-lead-munchen-39684) |
 | væridion | Senior Embedded DevOps & Engineering Platform Engineer - Aviation (all genders) | EUR 8,000,000,000-10,000,000,000 | ONSITE | [Apply](https://www.arbeitnow.com/jobs/companies/vaeridion/senior-embedded-devops-engineering-platform-engineer-aviation-all-genders-munich-282880) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
@@ -163,7 +164,6 @@ Gap:
 | TYTAN Technologies GmbH | Senior Full-Stack Developer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-full-stack-developer-munich-306463) |
 | TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
 | TYTAN Technologies GmbH | Senior GNC Engineer (f/m/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-gnc-engineer-munich-157797) |
-| TYTAN Technologies GmbH | Business Systems Architect (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/business-systems-architect-munich-35365) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
@@ -226,3 +226,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Revvity | Principal DevOps Engineer – Build, Release and Cloud Automation | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/revvity/jobs/principal-devops-engineer-build-release-and-cloud-automation) |
 | BioCatch | Pre-sales Consultant, India | 42 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/biocatch/jobs/pre-sales-consultant-india) |
 | Kestra Technologies | QA Engineer | 43 | USD 25 | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557) |
+| Signalmash | CPaaS Support & Product Manager | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/signalmash/jobs/cpaas-support-product-manager) |
