@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-24 00:06 UTC
+# Daily Job Search Report — 2026-09-24 06:54 UTC
 
 ## Run Summary
 
-- New jobs found: 48
-- Total jobs processed this run: 152
+- New jobs found: 65
+- Total jobs processed this run: 153
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 27
+- Jobs posted in last 24h (verified): 20
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 12
+- High-paying (high/very high tier): 7
 
 ## TOP 20 JOBS
 
@@ -150,6 +150,7 @@ Gap:
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
+| Orbem | Senior Director of Product (f/m/d) | EUR 15,000,000,000-18,000,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-director-of-product-munich-193471) |
 | Orbem | Director of Field Operations (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/director-of-field-operations-munich-232472) |
 | væridion | Senior Embedded DevOps & Engineering Platform Engineer - Aviation (all genders) | EUR 8,000,000,000-10,000,000,000 | ONSITE | [Apply](https://www.arbeitnow.com/jobs/companies/vaeridion/senior-embedded-devops-engineering-platform-engineer-aviation-all-genders-munich-282880) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
@@ -163,7 +164,6 @@ Gap:
 | TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
 | TYTAN Technologies GmbH | Senior GNC Engineer (f/m/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-gnc-engineer-munich-157797) |
 | TYTAN Technologies GmbH | Business Systems Architect (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/business-systems-architect-munich-35365) |
-| TYTAN Technologies GmbH | Senior Backend Engineer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-backend-engineer-munich-435745) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
