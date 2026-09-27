@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-27 14:55 UTC
+# Daily Job Search Report — 2026-09-27 20:33 UTC
 
 ## Run Summary
 
-- New jobs found: 56
-- Total jobs processed this run: 154
+- New jobs found: 47
+- Total jobs processed this run: 158
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 23
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 15
 
 ## TOP 20 JOBS
 
@@ -149,21 +149,21 @@ Gap:
 
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
+| Realpage | Senior Finance Analyst | USD 102,240,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/realpage/jobs/senior-finance-analyst) |
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
 | Orbem | Senior Director of Product (f/m/d) | EUR 15,000,000,000-18,000,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-director-of-product-munich-193471) |
 | Orbem | Director of Field Operations (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/director-of-field-operations-munich-232472) |
+| Orbem | Legal Counsel (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/legal-counsel-munich-11341) |
 | Vogel | Cloud Infrastructure Lead (m/w/d) | EUR 9,000,000,000-11,500,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/vogel/cloud-infrastructure-lead-munchen-39684) |
 | væridion | Senior Embedded DevOps & Engineering Platform Engineer - Aviation (all genders) | EUR 8,000,000,000-10,000,000,000 | ONSITE | [Apply](https://www.arbeitnow.com/jobs/companies/vaeridion/senior-embedded-devops-engineering-platform-engineer-aviation-all-genders-munich-282880) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
+| Orbem | Senior MRI Application Specialist (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-mri-application-specialist-munich-12321) |
 | Clariti | Business Development Representative (BDR) | USD 6,000,000,000-7,000,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/clariti/jobs/business-development-representative-bdr) |
 | Zeal Network | Team Lead Engineering - Finance Automation | EUR 1,800,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998) |
 | Yoummday GmbH | Platform & DevOps Engineer (m/f/d) | EUR 600,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-424568) |
 | alpaca | Director of Data Platform | USD 480,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/alpaca/director-of-data-platform-272406) |
 | Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
-| TYTAN Technologies GmbH | Senior Full-Stack Developer (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-full-stack-developer-munich-306463) |
-| TYTAN Technologies GmbH | Senior Embedded Software Engineer – Embedded Linux Platform (m/f/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-software-engineer-embedded-linux-platform-munich-57307) |
-| TYTAN Technologies GmbH | Senior GNC Engineer (f/m/d) | EUR 127,200,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-gnc-engineer-munich-157797) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
