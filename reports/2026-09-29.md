@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-09-29 16:13 UTC
+# Daily Job Search Report — 2026-09-29 21:37 UTC
 
 ## Run Summary
 
 - New jobs found: 48
-- Total jobs processed this run: 156
+- Total jobs processed this run: 142
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 19
+- Jobs posted in last 24h (verified): 22
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 12
+- High-paying (high/very high tier): 7
 
 ## TOP 20 JOBS
 
@@ -33,7 +33,7 @@
 | 17 | 61 | Metova | Senior Data Engineer | UNKNOWN | 2026-09-01 | NOT_AVAILABLE | azure, control_m, data_warehouse, etl | [Apply](https://himalayas.app/companies/metova/jobs/senior-data-engineer) |
 | 18 | 61 | Scale Media | Data Analyst | UNKNOWN | 2026-09-05 | USD 960,000-1,140,000 | azure, etl, python, snowflake | [Apply](https://himalayas.app/companies/scale-media/jobs/data-analyst) |
 | 19 | 61 | Quicken Loans | Senior Financial Analyst | UNKNOWN | 2026-09-21 | USD 76,500-161,500 | data_warehouse, snowflake, sql | [Apply](https://himalayas.app/companies/quicken-loans/jobs/senior-financial-analyst) |
-| 20 | 70 | Vomela | Principal Data Engineer | UNKNOWN | 2026-08-17 | USD 180-200,000 | adls, azure, etl, ms_fabric | [Apply](https://remoteok.com/remote-jobs/1136860) |
+| 20 | 61 | Valenz | Sr. Analyst - Healthcare Analytics | UNKNOWN | 2026-09-29 | NOT_AVAILABLE | aws, azure, control_m, denodo | [Apply](https://himalayas.app/companies/valenz/jobs/sr-analyst-healthcare-analytics) |
 
 ## TOP 5 — APPLY FIRST
 
