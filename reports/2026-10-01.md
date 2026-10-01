@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-01 16:47 UTC
+# Daily Job Search Report — 2026-10-01 22:06 UTC
 
 ## Run Summary
 
 - New jobs found: 60
-- Total jobs processed this run: 127
+- Total jobs processed this run: 141
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 20
+- Jobs posted in last 24h (verified): 38
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- High-paying (high/very high tier): 10
 
 ## TOP 20 JOBS
 
@@ -156,6 +156,7 @@ Gap:
 | Orbem | Legal Counsel (f/m/d) | EUR 12,000,000,000-13,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/legal-counsel-munich-11341) |
 | Vogel | Cloud Infrastructure Lead (m/w/d) | EUR 9,000,000,000-11,500,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/vogel/cloud-infrastructure-lead-munchen-39684) |
 | væridion | Senior Embedded DevOps & Engineering Platform Engineer - Aviation (all genders) | EUR 8,000,000,000-10,000,000,000 | ONSITE | [Apply](https://www.arbeitnow.com/jobs/companies/vaeridion/senior-embedded-devops-engineering-platform-engineer-aviation-all-genders-munich-282880) |
+| Vogel | (Junior) Creative Director – Design & Brand (m/w/d) | EUR 4,800,000,000-9,000,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/vogel/junior-creative-director-design-brand-munchen-493447) |
 | MAIA | Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x) | EUR 7,500,000,000-8,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621) |
 | Orbem | Senior Field Service Engineer (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-field-service-engineer-munich-355484) |
 | Orbem | Senior MRI Application Specialist (f/m/d) | EUR 7,000,000,000-7,500,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-mri-application-specialist-munich-12321) |
@@ -163,7 +164,6 @@ Gap:
 | Zeal Network | Team Lead Engineering - Finance Automation | EUR 1,800,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998) |
 | Yoummday GmbH | Platform & DevOps Engineer (m/f/d) | EUR 600,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-424568) |
 | alpaca | Director of Data Platform | USD 480,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/alpaca/director-of-data-platform-272406) |
-| Transaction Network Services | Senior Enterprise Architect | USD 140,000,000-180,000,000 | HYBRID | [Apply](https://himalayas.app/companies/transaction-network-services/jobs/senior-enterprise-architect) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
