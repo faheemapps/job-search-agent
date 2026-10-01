@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-01 00:55 UTC
+# Daily Job Search Report — 2026-10-01 07:56 UTC
 
 ## Run Summary
 
-- New jobs found: 44
-- Total jobs processed this run: 135
+- New jobs found: 69
+- Total jobs processed this run: 139
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 27
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 4
+- Jobs posted in last 24h (verified): 37
+- India-remote confirmed: 2
+- High-paying (high/very high tier): 11
 
 ## TOP 20 JOBS
 
@@ -174,6 +174,7 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Vomela | Principal Data Engineer | 70 | adls, azure, etl, ms_fabric, snowflake, sql, sql_perf_tuning | [Apply](https://remoteok.com/remote-jobs/1136860) |
 | Anaplan | Principal Data Engineer | 69 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559) |
 | Harris | Sr Software Engineer | 69 | azure, control_m, etl, oracle_plsql, python, snowflake, sql | [Apply](https://himalayas.app/companies/harris/jobs/sr-software-engineer) |
+| Marshmallow | Head of Data Science (12m fixed-term contract) | 67 | airflow, aws, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/marshmallow/head-of-data-science-12m-fixed-term-contract-london-490259) |
 | JobRad Loop | Senior Data Engineer (m/w/d) – Snowflake | 66 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-353033) |
 | Anaplan | Senior ML Engineer | 66 | airflow, aws, azure, data_warehouse, python, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-ml-engineer-manchester-360093) |
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remoteok.com/remote-jobs/1136594) |
@@ -184,7 +185,6 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | OZ | SQL/SSIS and Oracle Developer | 63 | azure, control_m, data_warehouse, etl, oracle_plsql, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/oz/jobs/sql-ssis-and-oracle-developer) |
 | Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
 | Kestra Technologies | Product Manager, Data Orchestration | 62 | airflow, etl, snowflake | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/product-manager-data-orchestration-villeneuve-dascq-379272) |
-| Immersivelabs | Senior Engineering Manager – Data Engineering - Bristol, UK (Hybrid) | 62 | airflow, aws, azure, data_warehouse, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/senior-engineering-manager-data-engineering-bristol-uk-hybrid-17275) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
@@ -227,3 +227,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | BioCatch | Pre-sales Consultant, India | 42 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/biocatch/jobs/pre-sales-consultant-india) |
 | Kestra Technologies | QA Engineer | 43 | USD 25 | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557) |
 | Signalmash | CPaaS Support & Product Manager | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/signalmash/jobs/cpaas-support-product-manager) |
+| Jabil | Principal Mechanical Engineer – DCI Pipes, Frames and Structures | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/jabil/jobs/principal-mechanical-engineer-dci-pipes-frames-and-structures) |
