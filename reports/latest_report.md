@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-04 07:32 UTC
+# Daily Job Search Report — 2026-10-04 15:03 UTC
 
 ## Run Summary
 
-- New jobs found: 57
-- Total jobs processed this run: 156
+- New jobs found: 89
+- Total jobs processed this run: 167
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 39
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 7
+- Jobs posted in last 24h (verified): 56
+- India-remote confirmed: 1
+- High-paying (high/very high tier): 11
 
 ## TOP 20 JOBS
 
@@ -228,3 +228,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Kestra Technologies | QA Engineer | 43 | USD 25 | [Apply](https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557) |
 | Signalmash | CPaaS Support & Product Manager | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/signalmash/jobs/cpaas-support-product-manager) |
 | Jabil | Principal Mechanical Engineer – DCI Pipes, Frames and Structures | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/jabil/jobs/principal-mechanical-engineer-dci-pipes-frames-and-structures) |
+| Crum & Forster | Director, Underwriting Sharing Economy, Remote | 42 | USD 1 | [Apply](https://himalayas.app/companies/crum-forster/jobs/director-underwriting-sharing-economy-remote) |
