@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-07 17:05 UTC
+# Daily Job Search Report — 2026-10-07 22:22 UTC
 
 ## Run Summary
 
-- New jobs found: 84
-- Total jobs processed this run: 153
+- New jobs found: 56
+- Total jobs processed this run: 149
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 38
-- India-remote confirmed: 0
-- High-paying (high/very high tier): 18
+- Jobs posted in last 24h (verified): 39
+- India-remote confirmed: 2
+- High-paying (high/very high tier): 6
 
 ## TOP 20 JOBS
 
@@ -229,3 +229,4 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Signalmash | CPaaS Support & Product Manager | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/signalmash/jobs/cpaas-support-product-manager) |
 | Jabil | Principal Mechanical Engineer – DCI Pipes, Frames and Structures | 49 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/jabil/jobs/principal-mechanical-engineer-dci-pipes-frames-and-structures) |
 | Crum & Forster | Director, Underwriting Sharing Economy, Remote | 42 | USD 1 | [Apply](https://himalayas.app/companies/crum-forster/jobs/director-underwriting-sharing-economy-remote) |
+| MKS Instruments | Sr Sourcing Manager | 44 | NOT_AVAILABLE | [Apply](https://himalayas.app/companies/mks-instruments/jobs/sr-sourcing-manager) |
