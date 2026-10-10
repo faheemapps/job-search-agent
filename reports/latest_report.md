@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-10 15:39 UTC
+# Daily Job Search Report — 2026-10-10 20:49 UTC
 
 ## Run Summary
 
-- New jobs found: 51
-- Total jobs processed this run: 145
+- New jobs found: 60
+- Total jobs processed this run: 160
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 36
+- Jobs posted in last 24h (verified): 39
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 12
+- High-paying (high/very high tier): 10
 
 ## TOP 20 JOBS
 
@@ -177,6 +177,7 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Marshmallow | Head of Data Science (12m fixed-term contract) | 67 | airflow, aws, python, snowflake, sql | [Apply](https://www.arbeitnow.co.uk/jobs/companies/marshmallow/head-of-data-science-12m-fixed-term-contract-london-490259) |
 | JobRad Loop | Senior Data Engineer (m/w/d) – Snowflake | 66 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-353033) |
 | Anaplan | Senior ML Engineer | 66 | airflow, aws, azure, data_warehouse, python, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-ml-engineer-manchester-360093) |
+| JobRad Loop | Senior Data Platform Engineer (m/w/d) \| Snowflake | 66 | airflow, aws, azure, data_warehouse, etl, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-platform-engineer-snowflake-munchen-262829) |
 | Peraton | Software Engineering, Senior Advisor | 65 | airflow, aws, control_m, etl, python, snowflake, sql | [Apply](https://himalayas.app/companies/peraton/jobs/software-engineering-senior-advisor) |
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remoteok.com/remote-jobs/1136594) |
 | Eraneos | Senior Manager Data Analytics (w/m/d) | 64 | aws, data_warehouse, etl, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
@@ -184,7 +185,6 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | YAZIO | Data Analytics Team Lead | 64 | airflow, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/yazio/data-analytics-team-lead-berlin-34045) |
 | J.D. Power | Senior Data Platform Engineer, Snowflake | 63 | airflow, aws, control_m, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/j-d-power/jobs/senior-data-platform-engineer-snowflake) |
 | OZ | SQL/SSIS and Oracle Developer | 63 | azure, control_m, data_warehouse, etl, oracle_plsql, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/oz/jobs/sql-ssis-and-oracle-developer) |
-| Capital Bank | Senior Data Engineer | 62 | airflow, aws, azure, data_warehouse, denodo, etl, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
