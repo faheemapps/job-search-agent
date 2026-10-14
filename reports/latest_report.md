@@ -1,12 +1,12 @@
-# Daily Job Search Report — 2026-10-14 06:51 UTC
+# Daily Job Search Report — 2026-10-14 14:47 UTC
 
 ## Run Summary
 
-- New jobs found: 73
-- Total jobs processed this run: 153
+- New jobs found: 66
+- Total jobs processed this run: 149
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 39
+- Jobs posted in last 24h (verified): 37
 - India-remote confirmed: 0
 - High-paying (high/very high tier): 12
 
@@ -31,9 +31,9 @@
 | 15 | 63 | Bright Vision Technologies | Data Platform Architect | UNKNOWN | 2026-09-13 | USD 140,000-180,000 | aws, azure, snowflake | [Apply](https://himalayas.app/companies/bright-vision-technologies/jobs/data-platform-architect-4487016853) |
 | 16 | 63 | OZ | SQL/SSIS and Oracle Developer | UNKNOWN | 2026-09-25 | NOT_AVAILABLE | azure, control_m, data_warehouse, etl | [Apply](https://himalayas.app/companies/oz/jobs/sql-ssis-and-oracle-developer) |
 | 17 | 63 | Lennar | Sr Manager, Data & Analytics | UNKNOWN | 2026-10-10 | USD 166,610-222,148 | aws, control_m, python, snowflake | [Apply](https://himalayas.app/companies/lennar/jobs/sr-manager-data-analytics) |
-| 18 | 62 | Capital Bank | Senior Data Engineer | HYBRID | 2026-08-25 | USD 115,000-130,000 | airflow, aws, azure, data_warehouse | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
-| 19 | 72 | Accurx | Senior Analytics Engineer | REMOTE_GLOBAL | UNVERIFIED | GBP 85,000-105,000 | azure, data_warehouse, python, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-205757) |
-| 20 | 71 | Techtorch | Data Architect | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | aws, azure, data_warehouse, etl | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-455476) |
+| 18 | 63 | Snowflake | Partner Development Manager, SAP AMER | UNKNOWN | 2026-10-14 | USD 280,000-367,500 | data_warehouse, snowflake | [Apply](https://himalayas.app/companies/snowflake/jobs/partner-development-manager-sap-amer) |
+| 19 | 62 | Capital Bank | Senior Data Engineer | HYBRID | 2026-08-25 | USD 115,000-130,000 | airflow, aws, azure, data_warehouse | [Apply](https://himalayas.app/companies/capital-bank/jobs/senior-data-engineer) |
+| 20 | 72 | Accurx | Senior Analytics Engineer | REMOTE_GLOBAL | UNVERIFIED | GBP 85,000-105,000 | azure, data_warehouse, python, snowflake | [Apply](https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-205757) |
 
 ## TOP 5 — APPLY FIRST
 
