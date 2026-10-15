@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-14 21:05 UTC
+# Daily Job Search Report — 2026-10-15 00:12 UTC
 
 ## Run Summary
 
-- New jobs found: 73
-- Total jobs processed this run: 144
+- New jobs found: 57
+- Total jobs processed this run: 164
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
 - Jobs posted in last 24h (verified): 40
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 9
+- High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
 
@@ -184,7 +184,7 @@ _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
 | Eraneos | Senior Manager Data Analytics (w/m/d) | 64 | aws, data_warehouse, etl, ms_fabric, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976) |
 | Lemon.io | Senior Data Engineer | 64 | airflow, aws, azure, python, snowflake, sql | [Apply](https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097) |
 | YAZIO | Data Analytics Team Lead | 64 | airflow, python, snowflake, sql | [Apply](https://www.arbeitnow.com/jobs/companies/yazio/data-analytics-team-lead-berlin-34045) |
-| J.D. Power | Senior Data Platform Engineer, Snowflake | 63 | airflow, aws, control_m, python, snowflake, sql, sql_perf_tuning | [Apply](https://himalayas.app/companies/j-d-power/jobs/senior-data-platform-engineer-snowflake) |
+| Conflux | Senior Data Engineer | 64 | airflow, aws, azure, data_warehouse, etl, python, snowflake | [Apply](https://www.arbeitnow.nl/jobs/companies/conflux/senior-data-engineer-utrecht-24250) |
 
 ## DUBAI/UAE & GLOBAL REMOTE
 
