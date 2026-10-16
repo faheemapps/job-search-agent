@@ -1,14 +1,14 @@
-# Daily Job Search Report — 2026-10-16 06:33 UTC
+# Daily Job Search Report — 2026-10-16 14:24 UTC
 
 ## Run Summary
 
-- New jobs found: 80
-- Total jobs processed this run: 162
+- New jobs found: 79
+- Total jobs processed this run: 165
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 38
+- Jobs posted in last 24h (verified): 39
 - India-remote confirmed: 0
-- High-paying (high/very high tier): 16
+- High-paying (high/very high tier): 12
 
 ## TOP 20 JOBS
 
@@ -149,6 +149,7 @@ Gap:
 
 | Company | Role | Salary | Remote | Apply |
 | ------- | ---- | ------ | ------ | ----- |
+| Orbem | Head of Product Compliance (f/m/d) | EUR 120,000,000,000-132,000,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/head-of-product-compliance-munich-358636) |
 | Realpage | Senior Finance Analyst | USD 102,240,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/realpage/jobs/senior-finance-analyst) |
 | Bowatt | Founding Product Manager (German-speaking) | EUR 50,000,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.com/jobs/companies/bowatt/founding-product-manager-german-speaking-munich-113836) |
 | Orbem | Senior Director of Product (f/m/d) | EUR 15,000,000,000-18,000,000,000 | REMOTE_GLOBAL | [Apply](https://www.arbeitnow.com/jobs/companies/orbem/senior-director-of-product-munich-193471) |
@@ -163,7 +164,6 @@ Gap:
 | Clariti | Business Development Representative (BDR) | USD 6,000,000,000-7,000,000,000 | UNKNOWN | [Apply](https://himalayas.app/companies/clariti/jobs/business-development-representative-bdr) |
 | Zeal Network | Team Lead Engineering - Finance Automation | EUR 1,800,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998) |
 | Yoummday GmbH | Platform & DevOps Engineer (m/f/d) | EUR 600,000,000 | HYBRID | [Apply](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-424568) |
-| alpaca | Director of Data Platform | USD 480,000,000 | UNKNOWN | [Apply](https://www.arbeitnow.co.uk/jobs/companies/alpaca/director-of-data-platform-272406) |
 
 ## BEST TECHNICAL MATCH
 _Prioritizing Snowflake + Informatica + PL/SQL + Fabric + Airflow combinations_
