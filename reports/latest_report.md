@@ -1,12 +1,12 @@
-# Daily Job Search Report — 2026-10-17 23:36 UTC
+# Daily Job Search Report — 2026-10-18 06:45 UTC
 
 ## Run Summary
 
-- New jobs found: 31
-- Total jobs processed this run: 146
+- New jobs found: 53
+- Total jobs processed this run: 155
 - Strong matches (score >= 70): 0
 - Excellent matches (score >= 85): 0
-- Jobs posted in last 24h (verified): 37
+- Jobs posted in last 24h (verified): 38
 - India-remote confirmed: 0
 - High-paying (high/very high tier): 14
 
@@ -22,7 +22,7 @@
 | 6 | 65 | Intertwine Associates | Senior AI / Data Engineer: Data Platforms, Machine Learning & Applied AI | UNKNOWN | 2026-10-12 | USD 130,000-175,000 | adls, aws, azure, etl | [Apply](https://himalayas.app/companies/intertwine-associates/jobs/senior-ai-data-engineer-data-platforms-machine-learning-applied-ai) |
 | 7 | 64 | Ryder System, Inc. | Director, Asset Management Center of Excellence | UNKNOWN | 2026-09-13 | NOT_AVAILABLE | azure, python, snowflake, sql | [Apply](https://himalayas.app/companies/ryder-system-inc/jobs/director-asset-management-center-of-excellence) |
 | 8 | 64 | ALTEN | Senior Scientific Data Architect & Data Modeler (all gender) | UNKNOWN | 2026-10-11 | NOT_AVAILABLE | aws, azure, snowflake, sql | [Apply](https://himalayas.app/companies/alten/jobs/senior-scientific-data-architect-data-modeler-all-gender) |
-| 9 | 64 | Bright Vision Technologies | Apache Spark Developer | UNKNOWN | 2026-10-15 | USD 125,000-185,000 | adls, airflow, aws, azure | [Apply](https://himalayas.app/companies/bright-vision-technologies/jobs/apache-spark-developer-6229565095) |
+| 9 | 64 | Bright Vision Technologies | Apache Spark Developer | UNKNOWN | 2026-10-18 | USD 125,000-185,000 | adls, airflow, aws, azure | [Apply](https://himalayas.app/companies/bright-vision-technologies/jobs/apache-spark-developer-2138196043) |
 | 10 | 63 | name | Resident Solutions Architect | UNKNOWN | 2026-08-19 | USD 2,159,784 | aws, etl, python, snowflake | [Apply](https://himalayas.app/companies/fivetran/jobs/resident-solutions-architect) |
 | 11 | 73 | Techtorch | Forward Deployed AI Engineer | REMOTE_GLOBAL | UNVERIFIED | NOT_AVAILABLE | airflow, aws, azure, data_warehouse | [Apply](https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-193609) |
 | 12 | 63 | Salesforce | Senior Technical Architect, Data 360 | UNKNOWN | 2026-08-23 | USD 172,500-260,100 | aws, data_warehouse, etl, snowflake | [Apply](https://himalayas.app/companies/salesforce/jobs/senior-technical-architect-data-360) |
